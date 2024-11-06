@@ -1,0 +1,2699 @@
+1.
+TY  - CONF
+TI  - Review on Food Recommender System for Diabetes Mellitus
+AU  - Rahman, Aulia Zikri
+AU  - Soesanti, Indah
+AU  - Wahyunggoro, Oyas
+T2  - 2018 International Seminar on Research of Information Technology and Intelligent Systems (ISRITI)
+AB  - Diabetes mellitus (DM) is still a serious world health problem, including Indonesia. WHO predicts an increase in the number of people with DM that became one of the global health threats. There are many ways to prevent or to cure that chronic disease like healthy nutrition and lifestyle. Most of them are focused on how to improve the daily habit start from the food recommendation. Many researchers already take part in this area, and the use of a recommender system to solve this problem is the best way to help the patient achieve a healthy lifestyle. This paper focuses on reviewing related research that has been done by the researcher and summarized the aspect that emphasized on each research and to find the connection between them.
+C3  - 2018 International Seminar on Research of Information Technology and Intelligent Systems (ISRITI)
+DA  - 2018/11//
+PY  - 2018
+DO  - 10.1109/ISRITI.2018.8864385
+DP  - IEEE Xplore
+SP  - 627
+EP  - 632
+UR  - https://ieeexplore.ieee.org/document/8864385/
+Y2  - 2024/06/25/14:31:46
+L1  - files/1344/Rahman et al. - 2018 - Review on Food Recommender System for Diabetes Mel.pdf
+L2  - files/1346/8864385.html
+KW  - Artificial Neural Network
+KW  - Blood
+KW  - Data Mining
+KW  - Diabetes
+KW  - Diabetes Mellitus
+KW  - Dietary Recommendation
+KW  - Diseases
+KW  - Ontologies
+KW  - Recommendation system
+KW  - Recommender systems
+KW  - Self-organizing feature maps
+KW  - Sugar
+N1  - ASReview_prior
+N1  - ASReview_relevant
+ER  - 
+
+2.
+TY  - CONF
+TI  - Towards a Collaborative Ontology-Based Decision Support System to Foster Healthy and Tailored Diets
+AU  - Spoladore, D.
+AU  - Sacco, M.
+T2  - IFIP Advances in Information and Communication Technology
+AB  - Nutrition-related diseases can considerably contribute to many different health-related problems and can impact on several segments of the population. Promoting balanced diet plans is therefore pivotal; however, this is not a trivial task as it requires different stakeholders (nutrition experts, agro-industrial businesses and consumers) to cooperate. This work introduces a prototypical ontology-based decision support system to enable such a cooperation, allowing nutrition experts to rely on a support tool when developing diet plans, consumers to received tailored suggestions and to be informed regarding new food products that could have an effect on specific their health condition, and agro-industrial companies to divulge characteristics of novel food products and their expected effects. These stakeholders can also exchange comments, suggestions and observations. The decision support system relies on widely-adopted ontologies and its use is introduced by two scenarios. © 2020, IFIP International Federation for Information Processing.
+C3  - IFIP Advances in Information and Communication Technology
+DA  - 2020///
+PY  - 2020
+DO  - 10.1007/978-3-030-62412-5_52
+SP  - 634
+EP  - 643
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85097437953&doi=10.1007%2f978-3-030-62412-5_52&partnerID=40&md5=e29730a48d8a0d28378cedccf22511dc
+KW  - Balanced diet
+KW  - Collaborative ontology
+KW  - Decision support system
+KW  - Decision support systems
+KW  - Expected effects
+KW  - Food ontology
+KW  - Food products
+KW  - Health condition
+KW  - Health-related problems
+KW  - Industrial companies
+KW  - Nutrition
+KW  - Nutrition ontology
+KW  - Ontology
+KW  - Ontology engineering
+KW  - Ontology-based
+KW  - Support tool
+KW  - Virtual corporation
+VL  - 598
+SN  - 18684238 (ISSN); 978-303062411-8 (ISBN)
+LA  - English
+PB  - Springer Science and Business Media Deutschland GmbH
+DB  - Scopus
+N1  - ASReview_prior
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 5; Correspondence Address: D. Spoladore; Institute of Intelligent Industrial Technologies and Systems for Advanced Manufacturing (STIIMA), National Research Council of Italy (CNR), Lecco, 23900, Italy; email: daniele.spoladore@stiima.cnr.it
+ER  - 
+
+3.
+TY  - JOUR
+TI  - Knowledge-Based System for Crop Pests and Diseases Recognition
+AU  - Rodríguez-García, MA
+AU  - García-Sánchez, F
+AU  - Valencia-García, R
+T2  - ELECTRONICS
+AB  - With the rapid increase in the world's population, there is an ever-growing need for a sustainable food supply. Agriculture is one of the pillars for worldwide food provisioning, with fruits and vegetables being essential for a healthy diet. However, in the last few years the worldwide dispersion of virulent plant pests and diseases has caused significant decreases in the yield and quality of crops, in particular fruit, cereal and vegetables. Climate change and the intensification of global trade flows further accentuate the issue. Integrated Pest Management (IPM) is an approach to pest control that aims at maintaining pest insects at tolerable levels, keeping pest populations below an economic injury level. Under these circumstances, the early identification of pests and diseases becomes crucial. In this work, we present the first step towards a fully fledged, semantically enhanced decision support system for IPM. The ultimate goal is to build a complete agricultural knowledge base by gathering data from multiple, heterogeneous sources and to develop a system to assist farmers in decision making concerning the control of pests and diseases. The pest classifier framework has been evaluated in a simulated environment, obtaining an aggregated accuracy of 98.8%.
+DA  - 2021/04//undefined
+PY  - 2021
+DO  - 10.3390/electronics10080905
+KW  - AGRICULTURE
+KW  - agrisemantics
+KW  - crop pest recognition
+KW  - DIAGNOSIS
+KW  - FRAMEWORK
+KW  - GRAPHS
+KW  - INSECT PESTS
+KW  - INTEGRATION
+KW  - natural language processing
+KW  - NETWORKS
+KW  - ONTOLOGY
+KW  - ontology population
+KW  - RECOMMENDER
+KW  - semantic data integration
+KW  - SERVICES
+VL  - 10
+SN  - 2079-9292
+IS  - 8
+LA  - English
+N1  - ASReview_prior
+N1  - ASReview_relevant
+N1  - Times Cited in Web of Science Core Collection:&nbsp;&nbsp;11<br/>Total Times Cited:&nbsp;&nbsp;13<br/>Cited Reference Count:&nbsp;&nbsp;95
+AN  - WOS:000643961700001
+ER  - 
+
+4.
+TY  - CONF
+TI  - Channel Attention-Guided Lightweight CNN Meets Extreme Learning Machine: Multi-Class Crop Leaf Disease Classification with Explainable AI
+AU  - Islam, Md. Minhazul
+AU  - Hasan, S. M. Mahedy
+AU  - Hossain, Md. Rakib
+AU  - Srizon, Azmain Yakin
+AU  - Akter, Farzana
+AU  - Faruk, Md. Farukuzzaman
+AU  - Shraboni Akter, Sheikh
+T2  - 2023 26th International Conference on Computer and Information Technology (ICCIT)
+AB  - Crop leaf diseases pose a significant challenge to global agriculture, leading to substantial economic losses and reduced yields. These ailments, caused by various pathogens, manifest as symptoms such as leaf discoloration and impaired photosynthesis, severely impacting crop health and productivity. Existing classification methods face challenges related to accuracy, computational efficiency, and interpretability. This study introduces an innovative solution that combines a meticulously designed lightweight convolutional neural network (CNN) architecture with a channel attention (CA) mechanism for extracting crucial features and leverages the discriminative power of an extreme learning machine (ELM) for classification. The lightweight CNN developed demonstrates significantly reduced training times. Additionally, the CA mechanism within the model effectively prioritizes channel-wise critical features while eliminating irrelevant and redundant ones. An empirical evaluation is conducted using a publicly available dataset and the proposed model achieves a flawless 100% accuracy in distinguishing between 39 distinct crop leaf diseases. Furthermore, the study employs gradient class activation maps (Grad-CAM) visualization to delve into the model’s decision-making process, shedding light on influential factors and regions. It holds the promise of transforming crop health and agricultural yields, instilling hope for farmers and researchers dedicated to achieving agricultural prosperity and sustainability.
+C3  - 2023 26th International Conference on Computer and Information Technology (ICCIT)
+DA  - 2023/12//
+PY  - 2023
+DO  - 10.1109/ICCIT60459.2023.10441609
+DP  - IEEE Xplore
+SP  - 1
+EP  - 6
+UR  - https://ieeexplore.ieee.org/document/10441609/
+Y2  - 2024/06/25/14:41:50
+L1  - files/1703/Islam et al. - 2023 - Channel Attention-Guided Lightweight CNN Meets Ext.pdf
+L2  - files/1704/10441609.html
+KW  - Channel Attention
+KW  - Convolutional Neural Network
+KW  - Convolutional neural networks
+KW  - Crop Leaf Disease
+KW  - Crops
+KW  - Diseases
+KW  - Extreme Learning Machine
+KW  - Extreme learning machines
+KW  - Feature extraction
+KW  - Grad-CAM
+KW  - Training
+KW  - Visualization
+ST  - Channel Attention-Guided Lightweight CNN Meets Extreme Learning Machine
+N1  - ASReview_prior
+N1  - ASReview_relevant
+ER  - 
+
+5.
+TY  - CONF
+TI  - An ontology-based decision support system for nutrition deficiency
+AU  - H. Tejaswini
+AU  - M. M. Manohara Pai
+AU  - R. M. Pai
+AU  - G. Attigeri
+AU  - R. P. Shenoy
+T2  - 2020 IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics (DISCOVER)
+AB  - Storing the patient's clinical test reports for analysis differs from clinic to clinic as most clinics store the details in customized software or freely available spreadsheets. In the nutrition test report, the test results show the levels, thresholds that doctors analyze and diagnose the type of deficiency. In many situations, the patients have a dilemma about the doctor's advice that results in a second opinion. Hence a simple decision support system is a necessity to help the doctor to analyze the laboratory test report data and prescribe the right treatment. This research proposes a nutrition deficiency decision support framework that models a biochemistry test report using an ontology and automatic nutrition deficiency classification. The resulting system is useful in hospitals for the automatic classification of nutritional deficiency.
+C3  - 2020 IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics (DISCOVER)
+DA  - 2020/10/30/31
+PY  - 2020
+DO  - 10.1109/DISCOVER50404.2020.9278069
+SP  - 267
+EP  - 272
+KW  - Blood
+KW  - classification
+KW  - Classification algorithms
+KW  - decision support system
+KW  - Diseases
+KW  - Education
+KW  - Iron
+KW  - Ontologies
+KW  - ontology
+KW  - Pediatrics
+N1  - ASReview_prior
+N1  - ASReview_relevant
+ER  - 
+
+6.
+TY  - CONF
+TI  - Knowledge reasoning in health cloud
+AU  - H. Deng
+AU  - X. Zhang
+AU  - J. Liu
+T2  - 2011 International Conference on Cloud and Service Computing
+AB  - Keeping healthy diet and lifestyle is the most effective way to prevent disease. But usually people only know some basic physical information like height, weight, heartbeat, and so on. They have no idea whether their food habit or lifestyle will affect their health. This paper, based on the scene of health cloud, proposes a knowledge reasoning model which includes knowledge analysis module, ontology modeling module, decision engine, rule engine and semantic template. The model provides a method which can analyze the diet and lifestyle information of people. And the information can be achieved from the domain ontology which is pretreated by domains experts. With the results of semantic reasoning processes, people can get some better healthy diet and lifestyle advices. An example of health diet has been constructed to test the performance of knowledge reasoning model. The results indicate that the model can effectively work for knowledge reasoning in health cloud.
+C3  - 2011 International Conference on Cloud and Service Computing
+DA  - 2011/12/12/14
+PY  - 2011
+DO  - 10.1109/CSC.2011.6138551
+SP  - 48
+EP  - 54
+KW  - agent
+KW  - Analytical models
+KW  - cloud
+KW  - Cloud computing
+KW  - Cognition
+KW  - Computational modeling
+KW  - Engines
+KW  - health cloud
+KW  - knowledge
+KW  - Ontologies
+KW  - ontology
+KW  - reasoning
+KW  - Semantics
+N1  - ASReview_relevant
+ER  - 
+
+7.
+TY  - JOUR
+TI  - Modular structure of web-based decision support systems for integrated pest management. A review
+AU  - Damos, P.
+T2  - Agronomy for Sustainable Development
+AB  - Sustainable pest management implies less pesticide use and replacement by safe control alternatives. This requires decision support for rational pest management. However, in practice, successful decision making is dependent upon the availability of integrated, high-quality information. Computer-aided forecasting and related decision support systems make pest control more sustainable by avoiding unwanted consequences of pesticide applications. Here, I review integrated pest management for web-based decision support systems. The major points are the following: (1) Principles of integrated pest management are compatible with sustainable agriculture. (2) Pest models serve as basis of decision making because they offer means to predict the exact time of pest phenological development and initiate management actions. Most models are climate driven. (3) New hardware technology has permitted the registration of automatically recorded climatic data. This data can be combined with pest models through logical operations and forecasting algorithms to develop a software of pest management. (4) Dynamic web interfaces can serve as decision support systems providing the user with real-time pest warnings and recommendations for management actions. (5) Ontology web programing and semantic knowledge representations provide a way to classify and describe agrodata to facilitate information sharing and data exploitation over distributed systems. (6) Most available pest management data is published on static web pages and, thus, cannot be classified as decision support systems. Some web-based decision support systems provide user-interactive content and real-time pest forecasts and management support. © 2015, INRA and Springer-Verlag France.
+DA  - 2015///
+PY  - 2015
+DO  - 10.1007/s13593-015-0319-9
+SP  - 1347
+EP  - 1372
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84946041504&doi=10.1007%2fs13593-015-0319-9&partnerID=40&md5=4c3a57e5b428183970c70d2dc637ce9a
+KW  - algorithm
+KW  - alternative agriculture
+KW  - computer simulation
+KW  - Computer-based pest forecasting
+KW  - decision support system
+KW  - ecological modeling
+KW  - expert system
+KW  - Expert systems
+KW  - forecasting method
+KW  - integrated pest management
+KW  - Linked data
+KW  - Ontology
+KW  - Pest and disease modeling
+KW  - pesticide
+KW  - phenology
+KW  - sustainability
+KW  - Sustainable pest management
+KW  - World Wide Web
+KW  - www
+VL  - 35
+SN  - 17740746 (ISSN)
+J2  - Agron. Sustainable Dev.
+IS  - 4
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 54
+ER  - 
+
+8.
+TY  - JOUR
+TI  - An Ontology-Based Framework for a Telehealthcare System to Foster Healthy Nutrition and Active Lifestyle in Older Adults
+AU  - Spoladore, D
+AU  - Colombo, V
+AU  - Arlati, S
+AU  - Mahroo, A
+AU  - Trombetta, A
+AU  - Sacco, M
+T2  - ELECTRONICS
+AB  - In recent years, telehealthcare systems (TSs) have become more and more widespread, as they can contribute to promoting the continuity of care and managing chronic conditions efficiently. Most TSs and nutrition recommendation systems require much information to return appropriate suggestions. This work proposes an ontology-based TS, namely HeNuALs, aimed at fostering a healthy diet and an active lifestyle in older adults with chronic pathologies. The system is built on the formalization of users' health conditions, which can be obtained by leveraging existing standards. This allows for modeling different pathologies via reusable knowledge, thus limiting the amount of information needed to retrieve nutritional indications from the system. HeNuALs is composed of (1) an ontological layer that stores patients and their data, food and its characteristics, and physical activity-related data, enabling the inference a series of suggestions based on the effects of foods and exercises on specific health conditions; (2) two applications that allow both the patient and the clinicians to access the data (with different permissions) stored in the ontological layer; and (3) a series of wearable sensors that can be used to monitor physical exercise (provided by the patient application) and to ensure patients' safety. HeNuALs inferences have been validated considering two different use cases. The system revealed the ability to determine suggestions for healthy, adequate, or unhealthy dishes for a patient with respiratory disease and for a patient with diabetes mellitus. Future work foresees the extension of the HeNuALs knowledge base by exploiting automatic knowledge retrieval approaches and validation of the whole system with target users.
+DA  - 2021/09//undefined
+PY  - 2021
+DO  - 10.3390/electronics10172129
+KW  - continuity of care
+KW  - COPD
+KW  - dietary recommendations
+KW  - OBSTRUCTIVE PULMONARY-DISEASE
+KW  - ontology-based decision support system
+KW  - QUALITY
+KW  - SUPPORT
+KW  - telemedicine
+VL  - 10
+SN  - 2079-9292
+IS  - 17
+LA  - English
+N1  - ASReview_relevant
+N1  - Times Cited in Web of Science Core Collection:&nbsp;&nbsp;6<br/>Total Times Cited:&nbsp;&nbsp;6<br/>Cited Reference Count:&nbsp;&nbsp;64
+AN  - WOS:000694080000001
+ER  - 
+
+9.
+TY  - JOUR
+TI  - Hybrid clustering based health decision-making for improving dietary habits
+AU  - Baek, J.-W.
+AU  - Kim, J.-C.
+AU  - Chun, J.
+AU  - Chung, K.
+T2  - Technology and Health Care
+AB  - BACKGROUND: Humans supply a variety of nutrients to their body in dietary life, which are directly related to health. Chronic diseases are long accumulated in the body on account of heredity or living habits, and draw attention as a main issue in the era of disease-controlled longevity. Therefore, it is essential to make health care continuously through the improvement in dietary habits. OBJECTIVE: By recommending alternative food products whose diet and nutrition structure is similar to that of the food products positively influencing users' health conditions, it is possible to satisfy user's health and preference. METHOD: We used the hybrid clustering based food recommendation method that uses chronic disease based clustering, diet and nutrition ontology, diet and nutrition knowledge base. Active users are classified into the chronic disease based cluster that has the nearest euclidean distance. According to the classified clusters, food products are recommended to users, and similar food products are also recommended with the use of food clustering and knowledge base. Food products are clustered with the uses of k-means algorithm and food and nutrient data system. Based on the created food clusters and food preference data, diet and nutrition knowledge base is generated. It is composed of food cluster filter, food similarity filter, universal preference filter, and user feedback filter. The universal preference filter represents the similarity weight between diet and nutrition, and user preference. The user feedback filter has the similarity weight between active user preference and diet and nutrition. They continue to be updated through associated feedback. RESULT: The proposed health decision-making method takes into account each user's health condition so that the method has more precision than an existing recommendation method. In addition, the proposed method brings about better evaluation results than a general user-by-user health context information based recommendation method. CONCLUSION: By recommending the food products related to users' chronic diseases through the proposed hybrid clustering, it is possible to help out their healthcare. In addition, by letting users receive satisfying feedback flexibly, it is possible to improve their dietary habits. © 2019 - IOS Press and the authors. All rights reserved.
+DA  - 2019///
+PY  - 2019
+DO  - 10.3233/THC-191730
+SP  - 459
+EP  - 472
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070922116&doi=10.3233%2fTHC-191730&partnerID=40&md5=45527c8f92cab0ad604c6c63b449ff45
+KW  - algorithm
+KW  - Algorithms
+KW  - Article
+KW  - attitude to health
+KW  - chronic disease
+KW  - Chronic Disease
+KW  - cluster analysis
+KW  - Cluster Analysis
+KW  - data system
+KW  - decision making
+KW  - Decision Making
+KW  - decision support system
+KW  - diabetes mellitus
+KW  - Diabetes Mellitus
+KW  - diet
+KW  - Diet
+KW  - dietary habits
+KW  - dyslipidemia
+KW  - Dyslipidemias
+KW  - eating habit
+KW  - food preference
+KW  - Food Preferences
+KW  - Health Knowledge, Attitudes, Practice
+KW  - health promotion
+KW  - Health Promotion
+KW  - health status
+KW  - Health Status
+KW  - healthcare
+KW  - human
+KW  - Humans
+KW  - Hybrid clustering
+KW  - k means clustering
+KW  - knowledge base
+KW  - machine learning
+KW  - Machine Learning
+KW  - nutrition
+KW  - nutrition service
+KW  - obesity
+KW  - Obesity
+KW  - ontology
+KW  - priority journal
+KW  - procedures
+VL  - 27
+SN  - 09287329 (ISSN)
+J2  - Technol. Health Care
+IS  - 5
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 41; Correspondence Address: K. Chung; Division of Computer Science and Engineering, Kyonggi University, Yeongtong-gu, Suwon-si, Gyeonggi-do, 154-42, Gwanggyosan-ro, 16227, South Korea; email: dragonhci@gmail.com; CODEN: THCAE
+ER  - 
+
+10.
+TY  - CONF
+TI  - Using IoT for integrated pest management
+AU  - A. Chougule
+AU  - V. K. Jha
+AU  - D. Mukhopadhyay
+T2  - 2016 International Conference on Internet of Things and Applications (IOTA)
+AB  - Management of pests is an important task in agriculture. Integrated Pest Management (IPM) is a way to prevent pest risks for long term using effective methods. Use of IoT for integrated pest management is unavoidable as it involves various tools from biological, chemical, mechanical and cultural field. Information about pests and all these tools needs to be maintained. Storing this information as ontology is the best option, as it then can be used by number of automated systems in agricultural field. Information in terms of ontology can be used by web services and can be made available online. It will help not only researchers in agriculture field but also farmers to manage pests and improve yield percentage. We describe automated method for construction of IPM ontology as web ontology language document and explain how it can be made available to farmers as an IoT application.
+C3  - 2016 International Conference on Internet of Things and Applications (IOTA)
+DA  - 2016/01/22/24
+PY  - 2016
+DO  - 10.1109/IOTA.2016.7562688
+SP  - 17
+EP  - 22
+KW  - Agriculture
+KW  - Integrated Pest Management
+KW  - Internet of things
+KW  - Ontologies
+KW  - OWL
+KW  - Pipelines
+KW  - Relationship Extraction
+KW  - Semantics
+KW  - Temperature measurement
+KW  - Web Ontology Language
+N1  - ASReview_relevant
+ER  - 
+
+11.
+TY  - CONF
+TI  - The nutrients of chronic diet recommended based on domain ontology and decision tree
+AU  - R. -C. Chen
+AU  - Y. -H. Ting
+AU  - J. -K. Chen
+AU  - Y. -W. Lo
+T2  - 2015 Conference on Technologies and Applications of Artificial Intelligence (TAAI)
+AB  - In recent years, due to the development and advance in information science and technology, people care more about the healthy diet, so diet types gradually change and take more focus on health management. Nowadays, it is becoming an aging society in Taiwan people have irregular life, long-term unhealthy diet, work pressure and other factors to be chronic disease, such as diabetes, hypertension and high cholesterol, and so on. However, most of the dietary recommendation system cannot give the dietary recommendations for patients of chronic diseases. The patients care what foods are edible, but they do not notify whether the nutrients are in balance. Therefore, this study built a diet recommendation system of chronic diseases with an expert knowledge, and gave chronic diseases more convenient and more precise dietary recommendations. In this study, we use ontology, decision tree and Jena to build the recommendation system. The dietary recommendations result is through assessment of dietitians, and verification accuracy is 100%. Therefore, this system of dietary recommendations can provide dietary recommendation of nutrient for patients of chronic diseases to achieve convenient and healthy diet.
+C3  - 2015 Conference on Technologies and Applications of Artificial Intelligence (TAAI)
+DA  - 2015/11/20/22
+PY  - 2015
+DO  - 10.1109/TAAI.2015.7407127
+SP  - 289
+EP  - 295
+KW  - Chaos
+KW  - Chronic
+KW  - Decision Tree
+KW  - Dietary Recommendation
+KW  - Nutrients
+KW  - Ontologies
+KW  - Ontology
+KW  - Standards
+KW  - Writing
+SN  - 2376-6824
+N1  - ASReview_relevant
+ER  - 
+
+12.
+TY  - JOUR
+TI  - A chronic disease diet recommendation system based on domain ontology and decision tree
+AU  - Chen, R.-C.
+AU  - Huang, C.-Y.
+AU  - Ting, Y.-H.
+T2  - Journal of Advanced Computational Intelligence and Intelligent Informatics
+AB  - As society develops and science and technology improve, people have come to care more about a healthy diet. Diet types have gradually changed and focused more on health management. Taiwan is becoming an aging society in which individuals have irregular lifestyles, long-term unhealthy diets, stressful work, and chronic diseases such as diabetes, hypertension, and high cholesterol. However, most dietary recommendation systems cannot give dietary recommendations for patients with chronic diseases. Though healthy foods are recommended, the systems contain little information on whether nutrients are in balance. Therefore, this study constructed a diet recommendation system for chronic diseases using expert knowledge, which enables more convenient and precise dietary recommendations for chronic diseases. In this study, we use an ontology, decision trees, and Jena to construct the recommendation system. The dietary recommendations results are evaluated by dietitians, and the verification accuracy is 100%. Therefore, this system of dietary recommendations can provide convenient, healthy, dietary recommendations for nutrients for patients with chronic diseases.
+DA  - 2017///
+PY  - 2017
+DO  - 10.20965/jaciii.2017.p0474
+SP  - 474
+EP  - 482
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019659922&doi=10.20965%2fjaciii.2017.p0474&partnerID=40&md5=adacb437377392e4d9d3d657e15964b5
+KW  - Aging societies
+KW  - Chronic
+KW  - Decision tree
+KW  - Decision trees
+KW  - Dietary recommendation
+KW  - Diseases
+KW  - Domain ontologies
+KW  - Expert knowledge
+KW  - Health management
+KW  - High cholesterols
+KW  - Nutrients
+KW  - Ontology
+KW  - Recommender systems
+KW  - Science and Technology
+VL  - 21
+SN  - 13430130 (ISSN)
+J2  - J. Adv. Comput. Intell. Intelligent Informatics
+IS  - 3
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 10
+ER  - 
+
+13.
+TY  - JOUR
+TI  - Ontology-based diet recommendation system
+AU  - Shridevi, S.
+AU  - Archana, K.
+T2  - International Journal of Recent Technology and Engineering
+AB  - Recommender systems are needed to find food items of one’s interest. We propose a food personalization framework that assists the user with the actual diet selection process. The Ontology-based process, recommend an appropriate diet for the user. The system analyses the user’s queries based on their requirements and recommends diet, based on their diseases and deficiencies. The system is tested for its efficiency in terms of query processing for users nutrient requirements. © BEIESP.
+DA  - 2019///
+PY  - 2019
+DO  - 10.35940/ijrte.C5194.098319
+SP  - 5811
+EP  - 5815
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073504658&doi=10.35940%2fijrte.C5194.098319&partnerID=40&md5=947cfe680732cce8c7fc795667a3b346
+KW  - Ontology
+KW  - RDF dataset
+KW  - Semantic framework
+KW  - SPARQL query
+KW  - SWRL
+VL  - 8
+SN  - 22773878 (ISSN)
+J2  - Int. J. Recent Technol. Eng.
+IS  - 3
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 0
+ER  - 
+
+14.
+TY  - CONF
+TI  - Functional Food Knowledge Graph-based Recipe Recommendation System Focused on Lifestyle-Related Diseases
+AU  - Kobayashi, Akio
+AU  - Mori, Shotaro
+AU  - Hashimoto, Akira
+AU  - Katsuragi, Tetsuo
+AU  - Kawamura, Takahiro
+T2  - 2024 IEEE 18th International Conference on Semantic Computing (ICSC)
+AB  - Lifestyle-related diseases can be reduced by making daily dietary choices. Functional components in foods have the potential to provide benefits in this regard. We constructed a knowledge graph that connects the functional components of foods to recipes, and developed a recommendation system to suggest dishes that may help alleviate lifestyle-related diseases. As dietary requirements vary widely depending on specific diseases and individual conditions, these requirements are combined to form a vast probability distribution. Our proposed system uses probabilistic logic programming to generate recommendations that are based on disease-specific dietary requirements, using a knowledge graph of foods and information about the user’s condition. In the proposed method, nodes in the knowledge graph, such as food functionality or recipes, are characterized by their relationships with other surrounding nodes, such as ingredients. We conducted an experiment to suggest recipes specifically for patients with diabetes and dyslipidemia. At the result, our system enable to recommend numerous recipes beneficial for the improvement of lifestyle-related diseases, especially for users with diabetes, with a precision of over 0.99.
+C3  - 2024 IEEE 18th International Conference on Semantic Computing (ICSC)
+DA  - 2024/02//
+PY  - 2024
+DO  - 10.1109/ICSC59802.2024.00048
+DP  - IEEE Xplore
+SP  - 261
+EP  - 268
+UR  - https://ieeexplore.ieee.org/document/10475601/
+Y2  - 2024/06/25/14:31:33
+L1  - files/1318/Kobayashi et al. - 2024 - Functional Food Knowledge Graph-based Recipe Recom.pdf
+L2  - files/1319/10475601.html
+KW  - Diabetes
+KW  - Health care
+KW  - Knowledge graph
+KW  - Knowledge graphs
+KW  - Probabilistic logic
+KW  - Probabilistic logic programming
+KW  - Probability distribution
+KW  - Programming
+KW  - Recommender systems
+KW  - Semantics
+N1  - ASReview_relevant
+ER  - 
+
+15.
+TY  - JOUR
+TI  - Ontology-based nutritional recommender system
+AU  - McKensy-Sambola, D.
+AU  - Rodríguez-García, M.Á.
+AU  - García-Sánchez, F.
+AU  - Valencia-García, R.
+T2  - Applied Sciences (Switzerland)
+AB  - Obesity is considered an epidemic that is continuously growing around the world. Heart diseases, diabetes, and bone and joint diseases are some of the diseases that people who are overweight or obese can develop. One of the vital causes of those disorders is poor nutrition education; there is no raising awareness about eating healthy food and practicing physical activities to burn off the excess energy. Therefore, it is necessary to use new technologies to build methods/tools that help people to overcome these avoidable nutrition disorders. For this reason, we implemented a recommendation engine capable of identifying the different levels of overweight and obesity in users and providing dietary strategies to mitigate them. To do so, we defined the Ontology of Dietary Recommendations (ODR) with axioms to model recipes, ingredients, and a set of diets to assist people who suffer from obesity. We validated the defined model by using a real set of individuals who were anonymized. A panel of advisors evaluated each individual record and suggested the most appropriate diets from those included in the ontology. Then, the proposed system was asked to also provide diet recommendations for each individual, which were compared with those proposed by the advisors (ground truth), reaching a mean accuracy of 87%. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.
+DA  - 2022///
+PY  - 2022
+DO  - 10.3390/app12010143
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85121673626&doi=10.3390%2fapp12010143&partnerID=40&md5=5c51b9136dafe91fe6307ee4ea752fd6
+KW  - Body mass index
+KW  - Diet recommendation
+KW  - Knowledge-based systems
+KW  - Ontology
+KW  - Optimal nutrition
+VL  - 12
+SN  - 20763417 (ISSN)
+J2  - Appl. Sci.
+IS  - 1
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 8; Correspondence Address: M.Á. Rodríguez-García; Departamento de Ciencias de la Computación, Universidad Rey Juan Carlos, Madrid, 28933, Spain; email: miguel.rodriguez@urjc.es
+ER  - 
+
+16.
+TY  - JOUR
+TI  - Health-Aware Food Recommendation Based on Knowledge Graph and Multi-Task Learning
+AU  - Chen, Y.
+AU  - Guo, Y.
+AU  - Fan, Q.
+AU  - Zhang, Q.
+AU  - Dong, Y.
+T2  - Foods
+AB  - Current food recommender systems tend to prioritize either the user’s dietary preferences or the healthiness of the food, without considering the importance of personalized health requirements. To address this issue, we propose a novel approach to healthy food recommendations that takes into account the user’s personalized health requirements, in addition to their dietary preferences. Our work comprises three perspectives. Firstly, we propose a collaborative recipe knowledge graph ((Formula presented.)) with millions of triplets, containing user–recipe interactions, recipe–ingredient associations, and other food-related information. Secondly, we define a score-based method for evaluating the healthiness match between recipes and user preferences. Based on these two prior perspectives, we develop a novel health-aware food recommendation model ((Formula presented.)) using knowledge graph embedding and multi-task learning. (Formula presented.) employs a knowledge-aware attention graph convolutional neural network to capture the semantic associations between users and recipes on the collaborative knowledge graph and learns the user’s requirements in both preference and health by fusing the losses of these two learning tasks. We conducted experiments to demonstrate that (Formula presented.) outperformed four competing baseline models in integrating users’ dietary preferences and personalized health requirements in food recommendations and performed best on the health task. © 2023 by the authors.
+DA  - 2023///
+PY  - 2023
+DO  - 10.3390/foods12102079
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160534630&doi=10.3390%2ffoods12102079&partnerID=40&md5=ecab949962d29950a4d9c8e6ee2c8a30
+KW  - food recommendation
+KW  - graph convolution network
+KW  - health
+KW  - knowledge graph
+KW  - multi-task learning
+VL  - 12
+SN  - 23048158 (ISSN)
+J2  - Foods
+IS  - 10
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 5; Correspondence Address: Y. Chen; Beijing Key Laboratory of Big Data Technology for Food Safety, Beijing Technology and Business University, Beijing, 100048, China; email: chenyi@th.btbu.edu.cn; Y. Dong; School of Computer Science, University of Technology Sydney, Sydney, 2008, Australia; email: yu.dong-3@student.uts.edu.au
+ER  - 
+
+17.
+TY  - CONF
+TI  - A Personalized Framework for Health Care Recommendation
+AU  - Ahire, Shreya B.
+AU  - Khanuja, Harmeet Kaur
+T2  - 2015 International Conference on Computing Communication Control and Automation
+AB  - In this world, for any kind of information, people depend on internet. They use search engines like Google to search information over internet. The queries that are written on the web must be accurate which would give the relevant information related to user's Health Care. But there is huge amount of information on the internet and so it's difficult to get the relevant information easily. In case of searches on right food exercise, people usually have their own preferences. Also people who suffers from some medical conditions they are restricted to some foods and exercises so they are attracted towards other food and exercises. Also the civilization where people reside will have impact on the number of choices and varieties of food. So there is need for easy to use framework for food and exercise recommendation. We propose ontology based semantic framework Health Care recommendation system which will provide precise information based on users requirements and constraints. This framework will use semantic web technology to analyze user's preferences and will build a nourished and health associated use's profile and will use the profile to categorize the associated knowledge so that users can make delicious food and exercise inquiries. We will also use the Decision Tree algorithm for retrieving related information from the database.
+C3  - 2015 International Conference on Computing Communication Control and Automation
+DA  - 2015/02//
+PY  - 2015
+DO  - 10.1109/ICCUBEA.2015.92
+DP  - IEEE Xplore
+SP  - 442
+EP  - 445
+UR  - https://ieeexplore.ieee.org/document/7155885/
+Y2  - 2024/06/25/14:31:21
+L1  - files/1294/Ahire and Khanuja - 2015 - A Personalized Framework for Health Care Recommend.pdf
+L2  - files/1295/7155885.html
+KW  - Data mining
+KW  - Databases
+KW  - decision tree
+KW  - Decision trees
+KW  - exercise
+KW  - food and nutrition
+KW  - Health Care
+KW  - Internet
+KW  - Medical services
+KW  - Ontologies
+KW  - ontology
+KW  - Personalization
+KW  - Semantics
+N1  - ASReview_relevant
+ER  - 
+
+18.
+TY  - CONF
+TI  - ElCombo: Knowledge-based Personalized Meal Recommendation System for Chinese Community-dwelling Elders
+AU  - Xu, Zidu
+AU  - Li, Jiao
+AU  - Topaz, Maxim
+T2  - 2023 IEEE 11th International Conference on Healthcare Informatics (ICHI)
+AB  - Knowledge graph-based food recommendations are critical for the nutritional support of older adults. However, the integration of disease-based nutritional principles and preference-related requirements needs to be optimized in current recommendation processes. This study aims to design a knowledge graph-based personalized meal recommendation system for older adults. The preliminary results of simulated recommendations are reported.
+C3  - 2023 IEEE 11th International Conference on Healthcare Informatics (ICHI)
+DA  - 2023/06//
+PY  - 2023
+DO  - 10.1109/ICHI57859.2023.00072
+DP  - IEEE Xplore
+SP  - 478
+EP  - 479
+UR  - https://ieeexplore.ieee.org/document/10336967/
+Y2  - 2024/06/25/14:31:43
+L1  - files/1338/Xu et al. - 2023 - ElCombo Knowledge-based Personalized Meal Recomme.pdf
+L2  - files/1339/10336967.html
+KW  - Diseases
+KW  - elder nutrition
+KW  - Informatics
+KW  - Knowledge based systems
+KW  - knowledge graph
+KW  - Medical services
+KW  - Older adults
+KW  - personalized food recommendation
+KW  - Recommender systems
+ST  - ElCombo
+N1  - ASReview_relevant
+ER  - 
+
+19.
+TY  - JOUR
+TI  - An effective explainable food recommendation using deep image clustering and community detection
+AU  - Rostami, M.
+AU  - Muhammad, U.
+AU  - Forouzandeh, S.
+AU  - Berahmand, K.
+AU  - Farrahi, V.
+AU  - Oussalah, M.
+T2  - Intelligent Systems with Applications
+AB  - In food diet communication domain, images convey important information to capture users' attention beyond the traditional ingredient content, making it crucial to influence user-decision about the relevancy of a given diet. By using a deep learning-based image clustering method, this paper proposes an Explainable Food Recommendation system that uses the visual content of food to justify their recommendations. n the recommendation system. Especially, a new similarity score based on a tendency measure that quantifies the extent to which user community prefers a given food category is introduced and incorporated in the recommendation. Finally, a rule-based explainability is introduced to enhance transparency and interpretability of the recommendation outcome. Our experiments on a crawled dataset showed that the proposed method enhances recommendation quality in terms of precision, recall, F1, and Normalized Discounted Cumulative Gain (NDCG) by 7.35%, 6.70%, 7.32% and 14.38%, respectively, when compared to other existing methodologies for food recommendation. Besides ablation study is performed to demonstrate the technical soundness of the various components of our recommendation system. © 2022 The Authors
+DA  - 2022///
+PY  - 2022
+DO  - 10.1016/j.iswa.2022.200157
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142782462&doi=10.1016%2fj.iswa.2022.200157&partnerID=40&md5=f80821f3ffbbd79e4236f4ba8632125f
+KW  - Clustering methods
+KW  - Communication domain
+KW  - Community detection
+KW  - Deep learning
+KW  - Explainable artificial intelligence
+KW  - Food recommendation
+KW  - Image clustering
+KW  - Recommender system
+KW  - Recommender systems
+KW  - Similarity scores
+KW  - User attention
+KW  - Visual content
+VL  - 16
+SN  - 26673053 (ISSN)
+J2  - Intell. Syst. Applications.
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 28; Correspondence Address: M. Rostami; Center for Machine Vision and Signal Analysis (CMVS), University of Oulu, Finland; email: Mehrdad.Rostami@oulu.fi
+ER  - 
+
+20.
+TY  - CONF
+TI  - Semantic Modeling for Food Recommendation Explanations
+AU  - Padhiar, I.
+AU  - Seneviratne, O.
+AU  - Chari, S.
+AU  - Gruen, D.
+AU  - McGuinness, D.L.
+T2  - Proceedings - 2021 IEEE 37th International Conference on Data Engineering Workshops, ICDEW 2021
+AB  - With the increased use of AI methods to provide recommendations in the health, specifically dietary recommendation space, there is also an increased need for explainability of those recommendations. Such explanations would benefit users of recommendation systems by empowering them with justifications for following the system's suggestions. We present the Food Explanation Ontology (FEO) that provides a formalism for modeling explanations to users for food-related recommendations. FEO models food recommendations, using concepts from the explanation domain to create responses to user questions about food recommendations they receive from AI systems such as personalized knowledge base question answering systems. FEO uses a modular, extensible structure that lends itself to a variety of explanations while still preserving important semantic details to accurately represent explanations of food recommendations. In order to evaluate this system, we used a set of competency questions derived from explanation types present in literature that are relevant to food recommendations. Our motivation with the use of FEO is to empower users to make decisions about their health, fully equipped with an understanding of the AI recommender systems as they relate to user questions, by providing reasoning behind their recommendations in the form of explanations. Resource Website: https://tetherless-world.github.io/food-explanation-ontology Ontology Link: https://purl.org/heals/food-explanation-ontology/  © 2021 IEEE.
+C3  - Proc. - IEEE Int. Conf. Data Eng. Workshops, ICDEW
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/ICDEW53142.2021.00010
+SP  - 13
+EP  - 19
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107637751&doi=10.1109%2fICDEW53142.2021.00010&partnerID=40&md5=a09f375256a14d00c373253cdc334f2a
+KW  - AI systems
+KW  - Food Explainability
+KW  - Food Recommendation
+KW  - HTTP
+KW  - Knowledge base
+KW  - Knowledge based systems
+KW  - Ontology
+KW  - Question answering systems
+KW  - Recommender systems
+KW  - Semantic Model
+KW  - Semantics
+KW  - Technical presentations
+SN  - 978-166544890-1 (ISBN)
+LA  - English
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 15
+ER  - 
+
+21.
+TY  - JOUR
+TI  - A Knowledge-based Decision Support System for recommending safe recipes to individuals with dysphagia
+AU  - Spoladore, D
+AU  - Colombo, V
+AU  - Campanella, V
+AU  - Lunetta, C
+AU  - Mondellini, M
+AU  - Mahroo, A
+AU  - Cerri, F
+AU  - Sacco, M
+T2  - COMPUTERS IN BIOLOGY AND MEDICINE
+AB  - Background: Dysphagia is a disorder that can be associated to several pathological conditions, including neuromuscular diseases, with significant impact on quality of life. Dysphagia often leads to malnutrition, as a consequence of the dietary changes made by patients or their caregivers, who may deliberately decide to reduce or avoid specific food consistencies (because they are not perceived as safe), and the lack of knowledge in how to process foods are critics. Such dietary changes often result in unbalanced nutrients intake, which can have significant consequences for frail patients. This paper presents the development of a prototypical novel ontologybased Decision Support System (DSS) to support neuromuscular patients with dysphagia (following a per-oral nutrition) and their caregivers in preparing nutritionally balanced and safe meals. Method: After reviewing scientific literature, we developed in collaboration with Ear-Nose-Throat (ENT) specialists, neurologists, and dieticians the DSS formalizes expert knowledge to suggest recipes that are considered safe according to patient's consistency limitations and dysphagia severity and also nutritionally well-balanced. Results: The prototype can be accessed via digital applications both by physicians to generate and verify the recommendations, and by the patients and their caregivers to follow the step-by-step procedures to autonomously prepare and process one or more recipe. The system is evaluated with 9 clinicians to assess the quality of the DSS's suggested recipes and its acceptance in clinical practice. Conclusions: Preliminary results suggest a global positive outcome for the recipes inferred by the DSS and a good usability of the system.
+DA  - 2024/03//undefined
+PY  - 2024
+DO  - 10.1016/j.compbiomed.2024.108193
+KW  - Clinical decision support system
+KW  - Dysphagia
+KW  - Dysphagic patient support
+KW  - INFORMATION
+KW  - MODEL
+KW  - Neuromuscular diseases
+KW  - Nutrition
+KW  - Ontology-based decision support system
+KW  - STATE
+KW  - TECHNOLOGY
+VL  - 171
+SN  - 0010-4825
+LA  - English
+N1  - ASReview_relevant
+N1  - Times Cited in Web of Science Core Collection:&nbsp;&nbsp;0<br/>Total Times Cited:&nbsp;&nbsp;0<br/>Cited Reference Count:&nbsp;&nbsp;62
+AN  - WOS:001202344100001
+ER  - 
+
+22.
+TY  - JOUR
+TI  - A Systematic Review on Food Recommender Systems for Diabetic Patients
+AU  - Yera, R.
+AU  - Alzahrani, A.A.
+AU  - Martínez, L.
+AU  - Rodríguez, R.M.
+T2  - International Journal of Environmental Research and Public Health
+AB  - Recommender systems are currently a relevant tool for facilitating access for online users, to information items in search spaces overloaded with possible options. With this goal in mind, they have been used in diverse domains such as e-commerce, e-learning, e-tourism, e-health, etc. Specifically, in the case of the e-health scenario, the computer science community has been focused on building recommender systems tools for supporting personalized nutrition by delivering user-tailored foods and menu recommendations, incorporating the health-aware dimension to a larger or lesser extent. However, it has been also identified the lack of a comprehensive analysis of the recent advances specifically focused on food recommendations for the domain of diabetic patients. This topic is particularly relevant, considering that in 2021 it was estimated that 537 million adults were living with diabetes, being unhealthy diets a major risk factor that leads to such an issue. This paper is centered on presenting a survey of food recommender systems for diabetic patients, supported by the PRISMA 2020 framework, and focused on characterizing the strengths and weaknesses of the research developed in this direction. The paper also introduces future directions that can be followed in the next future, for guaranteeing progress in this necessary research area. © 2023 by the authors.
+DA  - 2023///
+PY  - 2023
+DO  - 10.3390/ijerph20054248
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85149985424&doi=10.3390%2fijerph20054248&partnerID=40&md5=76d8f7c5bb33da6f76bae15b38b05890
+KW  - adult
+KW  - Adult
+KW  - algorithm
+KW  - Algorithms
+KW  - artificial intelligence
+KW  - classification
+KW  - Commerce
+KW  - commercial phenomena
+KW  - computer
+KW  - Computers
+KW  - diabetes
+KW  - diabetes mellitus
+KW  - Diabetes Mellitus
+KW  - diet
+KW  - Diet
+KW  - evaluation study
+KW  - food recommendation
+KW  - human
+KW  - Humans
+KW  - information processing
+KW  - literature review
+KW  - medical information system
+KW  - methodology
+KW  - nutritional information
+KW  - nutritional parameters
+KW  - nutritional requirement
+KW  - process optimization
+KW  - Review
+KW  - scientist
+KW  - semantics
+KW  - survey
+KW  - systematic review
+KW  - taxonomy
+KW  - user preferences
+VL  - 20
+SN  - 16617827 (ISSN)
+J2  - Int. J. Environ. Res. Public Health
+IS  - 5
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 7; Correspondence Address: R. Yera; Computer Science Department, University of Jaén, Jaén, 23007, Spain; email: ryera@ujaen.es
+ER  - 
+
+23.
+TY  - CONF
+TI  - Semantic-based Thai Recipe Recommendation
+AU  - Chotipant, Supannada
+T2  - 2022 19th International Joint Conference on Computer Science and Software Engineering (JCSSE)
+AB  - Nowadays, people are constantly affected by epidemics such as COVID-19. To reduce the risk of acquiring germs in the community, people's lifestyles have been changed, and they are more inclined to cook for themselves. Typically, people can usually quickly and easily find recipe information via websites and applications. The resulting recipes consist of ingredients as specified by the user. Unfortunately, users often have ingredients that disappear in available cooking recipes. This makes the system is unable to recommend all relevant recipes to users, although the users can use the existing ingredients instead of the ingredients specified in the recipes. Based on this limitation, this research proposes a semantic-based Thai cooking recipe recommendation system which can recommend recipes based on the ingredient substitutes. This research uses existing Thai food ontology to retrieve substitute ingredients based on three different ingredient properties, such as smell, taste, and texture. To recommend cooking recipes, the system expands the given user queries with substitute ingredients and then calculates similarities between all queries and each cooking recipe. Recipes with high similarities are presented and ranked to users. To evaluate the performances, precision, recall and f-measure are applied. The experiments demonstrate that the proposed method performs well with 0.96, 0.72, and 0.82 in precision, recall, and f-measure respectively.
+C3  - 2022 19th International Joint Conference on Computer Science and Software Engineering (JCSSE)
+DA  - 2022/06//
+PY  - 2022
+DO  - 10.1109/JCSSE54890.2022.9836293
+DP  - IEEE Xplore
+SP  - 1
+EP  - 6
+UR  - https://ieeexplore.ieee.org/document/9836293/
+Y2  - 2024/06/25/14:31:44
+L1  - files/1340/Chotipant - 2022 - Semantic-based Thai Recipe Recommendation.pdf
+L2  - files/1341/9836293.html
+KW  - Business
+KW  - Computer applications
+KW  - Consumer behavior
+KW  - Consumer products
+KW  - Database systems
+KW  - Deep learning
+KW  - Electronic commerce
+KW  - Food products
+KW  - Ingredient substitution
+KW  - Online services
+KW  - Ontologies
+KW  - Query processing
+KW  - Recommender systems
+KW  - Semantic-based recommendation
+KW  - Semantics
+KW  - Software algorithms
+KW  - Thai Cooking Recipe
+N1  - ASReview_relevant
+ER  - 
+
+24.
+TY  - JOUR
+TI  - An efficient rule based decision support system using semantic web technology
+AU  - Naseem, J.
+AU  - Burney, S.M.A.
+AU  - Mehmood, N.
+T2  - International Journal of Advanced Computer Science and Applications
+AB  - The Semantic Web technology is an efficient mechanism to query or infer knowledge on a global scale using the internet by providing logical reasoning through rule based system. In this paper application of semantic web technology is discussed in context of agriculture knowledge management and delivery. In agriculture, adoption of newly developed technology is essential to enhance crop production. However, timely dissemination of authenticated agriculture information for decision making at larger scale to diversified end user has always been a challenge due to several reasons. One of the reasons is storing and delivering agriculture knowledge in machine readable form. In this paper a frame work based on semantic web is presented for collection, storing and updating of agricultural information at centralized location and delivering knowledge through intelligent decision support system through semantic web. The frame work utilizes rule based system for querying information from agriculture knowledge base. © 2018 International Journal of Advanced Computer Science and Applications.
+DA  - 2018///
+PY  - 2018
+DO  - 10.14569/IJACSA.2018.091250
+SP  - 346
+EP  - 350
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059519434&doi=10.14569%2fIJACSA.2018.091250&partnerID=40&md5=48301ec820ec9e8079ec29c04049a46a
+KW  - Agriculture information
+KW  - Intelligent DSS
+KW  - Rule based system
+KW  - Semantic web
+VL  - 9
+SN  - 2158107X (ISSN)
+J2  - Intl. J. Adv.  Comput. Sci. Appl.
+IS  - 12
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 1
+ER  - 
+
+25.
+TY  - CONF
+TI  - Food Recommendation Using Ontology and Heuristics
+AU  - El-Dosuky, M.A.
+AU  - Rashad, M.Z.
+AU  - Hamza, T.T.
+AU  - EL-Bassiouny, A.H.
+T2  - Communications in Computer and Information Science
+AB  - Recommender systems are needed to find food items of one's interest. This paper reviews recommender systems and recommendation methods, then propose a food personalization framework based on adaptive hypermedia and extend Hermes framework with food recommendation functionality. Moreover, it combines TF-IDF term extraction method with cosine similarity measure. Healthy heuristics and standard food database are incorporated into the knowledgebase. Based on the performed evaluation, we conclude that semantic recommender systems in general outperform traditional recommenders systems with respect to accuracy, precision, and recall, and that the proposed recommender has a better F-measure than existing semantic recommenders. © Springer-Verlag Berlin Heidelberg 2012.
+C3  - Commun. Comput. Info. Sci.
+DA  - 2012///
+PY  - 2012
+DO  - 10.1007/978-3-642-35326-0_42
+SP  - 423
+EP  - 429
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84880366818&doi=10.1007%2f978-3-642-35326-0_42&partnerID=40&md5=aa75e4dcb7e450c0750d0f34800610ca
+KW  - Adaptive hypermedia
+KW  - Cosine similarity measures
+KW  - Heuristics
+KW  - Knowledge base
+KW  - Ontology
+KW  - Personalizations
+KW  - Recommendation methods
+KW  - Recommender systems
+KW  - Semantics
+KW  - Semantics-Based Recommendation
+KW  - Term extraction
+VL  - 322
+SN  - 18650929 (ISSN); 978-364235325-3 (ISBN)
+LA  - English
+PB  - Springer Verlag
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 34
+ER  - 
+
+26.
+TY  - CONF
+TI  - FML-Based Recommender System for Restaurants
+AU  - Lin, Woan-Tyng
+AU  - Wang, Mei-Hui
+AU  - Lee, Chang-Shing
+AU  - Kurozumi, Kanta
+AU  - Majima, Yukie
+T2  - 2013 Conference on Technologies and Applications of Artificial Intelligence
+AB  - Due to the increasing number of obese people, this paper presents a Fuzzy Markup Language (FML)-based recommender system for restaurants to infer the recommended level of a restaurant by giving the estimated calories in food, the distance to the restaurant, and the price of the served food. With the standard of the Food Exchange List (FEL), developed by The Japan Diabetes Society, and the information about the food calories, we can estimate the calories of different kinds of the food. We first construct the ontology of this system, and then we use the FML to build the knowledge base and the rule base of the recommender system based on domain experts' suggestions and Japanese persons' experience in diet. With the input of the estimated calories of food, distance of the restaurant, and price of the food, the recommended level of the restaurant is inferred to allow people to both enjoy the delicious food and make an exercise.
+C3  - 2013 Conference on Technologies and Applications of Artificial Intelligence
+DA  - 2013/12//
+PY  - 2013
+DO  - 10.1109/TAAI.2013.54
+DP  - IEEE Xplore
+SP  - 234
+EP  - 239
+UR  - https://ieeexplore.ieee.org/document/6783873/
+Y2  - 2024/06/25/14:31:29
+L1  - files/1312/Lin et al. - 2013 - FML-Based Recommender System for Restaurants.pdf
+L2  - files/1313/6783873.html
+KW  - Diabetes
+KW  - Educational institutions
+KW  - Food Exchange List
+KW  - Fuzzy logic
+KW  - Fuzzy Markup Language
+KW  - Knowledge based systems
+KW  - Ontologies
+KW  - Ontology
+KW  - Recommender System
+KW  - Recommender systems
+KW  - Simulation
+N1  - ASReview_relevant
+ER  - 
+
+27.
+TY  - CONF
+TI  - Using collaborative filtering to enhance domain-independent CBR recommender's personalization
+AU  - J. Karim
+AU  - M. Manceny
+AU  - R. Chiky
+AU  - M. Manago
+AU  - M. -A. Aufaure
+T2  - 2015 IEEE 9th International Conference on Research Challenges in Information Science (RCIS)
+AB  - Case-Based Reasoning (CBR) is a problem solving methodology that reuses the knowledge of past experiences to solve new problems. It's a knowledge-based technique that has been introduced to the recommendation field to allow reasoning on domain knowledge and to generate more accurate recommendations. If CBR helps suggesting items that meet the users' search criteria, it has the disadvantage of being domain-dependent (all the reasoning process is generally based on hard-coded domain knowledge) and generating less personalized recommendations. In this paper, we propose an approach for a generic and personalized CBR-based recommender system. First, we use a generic ontology to formalize all the knowledge required during the reasoning process. The ontology represents an intermediate layer between the recommender engine and the application domain to ensure the domain-independence criteria. Second, we propose a hybridization strategy that combines CBR and collaborative filtering to alleviate the limitations of CBR and improve the personalized character of the recommendations. Finally, preliminary validation is performed using a publicly available data set of restaurants.
+C3  - 2015 IEEE 9th International Conference on Research Challenges in Information Science (RCIS)
+DA  - 2015/05/13/15
+PY  - 2015
+DO  - 10.1109/RCIS.2015.7128907
+SP  - 456
+EP  - 467
+KW  - Case-Based Reasoning
+KW  - Cognition
+KW  - Collaboration
+KW  - Collaborative Filtering
+KW  - Domain-Independence
+KW  - Engines
+KW  - Hybrid Recommender System
+KW  - Knowledge based systems
+KW  - Knowledge-Based Recommendation
+KW  - Ontologies
+KW  - Problem-solving
+KW  - Recommender systems
+SN  - 2151-1357
+N1  - ASReview_relevant
+ER  - 
+
+28.
+TY  - JOUR
+TI  - DMTO: A realistic ontology for standard diabetes mellitus treatment
+AU  - El-Sappagh, S.
+AU  - Kwak, D.
+AU  - Ali, F.
+AU  - Kwak, K.-S.
+T2  - Journal of Biomedical Semantics
+AB  - Background: Treatment of type 2 diabetes mellitus (T2DM) is a complex problem. A clinical decision support system (CDSS) based on massive and distributed electronic health record data can facilitate the automation of this process and enhance its accuracy. The most important component of any CDSS is its knowledge base. This knowledge base can be formulated using ontologies. The formal description logic of ontology supports the inference of hidden knowledge. Building a complete, coherent, consistent, interoperable, and sharable ontology is a challenge. Results: This paper introduces the first version of the newly constructed Diabetes Mellitus Treatment Ontology (DMTO) as a basis for shared-semantics, domain-specific, standard, machine-readable, and interoperable knowledge relevant to T2DM treatment. It is a comprehensive ontology and provides the highest coverage and the most complete picture of coded knowledge about T2DM patients' current conditions, previous profiles, and T2DM-related aspects, including complications, symptoms, lab tests, interactions, treatment plan (TP) frameworks, and glucose-related diseases and medications. It adheres to the design principles recommended by the Open Biomedical Ontologies Foundry and is based on ontological realism that follows the principles of the Basic Formal Ontology and the Ontology for General Medical Science. DMTO is implemented under Protégé 5.0 in Web Ontology Language (OWL) 2 format and is publicly available through the National Center for Biomedical Ontology's BioPortal at http://bioportal.bioontology.org/ontologies/DMTO. The current version of DMTO includes more than 10,700 classes, 277 relations, 39,425 annotations, 214 semantic rules, and 62,974 axioms. We provide proof of concept for this approach to modeling TPs. Conclusion: The ontology is able to collect and analyze most features of T2DM as well as customize chronic TPs with the most appropriate drugs, foods, and physical exercises. DMTO is ready to be used as a knowledge base for semantically intelligent and distributed CDSS systems. © 2018 The Author(s).
+DA  - 2018///
+PY  - 2018
+DO  - 10.1186/s13326-018-0176-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041420952&doi=10.1186%2fs13326-018-0176-y&partnerID=40&md5=661bd25fb0c4730f63874ad55556a353
+KW  - Biological Ontologies
+KW  - biological ontology
+KW  - Clinical decision support system
+KW  - Diabetes mellitus
+KW  - Diabetes Mellitus, Type 2
+KW  - Internet
+KW  - Knowledge modeling
+KW  - non insulin dependent diabetes mellitus
+KW  - Ontology
+KW  - semantics
+KW  - Semantics
+KW  - Treatment plan
+VL  - 9
+SN  - 20411480 (ISSN)
+J2  - J. Biomed. Semant.
+IS  - 1
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 63; Correspondence Address: S. El-Sappagh; Benha University, Information Systems Department, Faculty of Computers and Informatics, Banha, Al Qalyubia Governorate, Banha Mansura Road, Meit Ghamr - Benha, 3000-104, Egypt; email: shaker_elsapagh@yahoo.com
+ER  - 
+
+29.
+TY  - JOUR
+TI  - Expertise-based decision support for managing food quality in agri-food companies
+AU  - Buche, P.
+AU  - Cuq, B.
+AU  - Fortin, J.
+AU  - Sipieter, C.
+T2  - Computers and Electronics in Agriculture
+AB  - In many agri-food companies, food quality is often managed using expertise gained through experience. Overall quality enhancement may come from sharing collective expertise. In this paper, we describe the design and implementation of a complete methodology allowing an expert knowledge base to be created and used to recommend the technical action to take to maintain food quality. We present its functional specifications, defined in cooperation with several industrial partners and technical centres over the course of several projects carried out in recent years. We propose a systematic methodology for collecting the knowledge on a given food process, from the design of a questionnaire to the synthesis of the information from completed questionnaires using a mind map approach. We then propose an original core ontology for structuring knowledge as possible causal relationships between situations of interest. We describe how mind map files generated by mind map tools are automatically imported into a conceptual graph knowledge base, before being validated and finally automatically processed in a graph-based visual tool. A specific end-user interface has been designed to ensure that end-user experts in agri-food companies can use the tool in a convenient way. Finally, our approach is compared with current research. © 2019 Elsevier B.V.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1016/j.compag.2019.05.052
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067353211&doi=10.1016%2fj.compag.2019.05.052&partnerID=40&md5=21b42dd39d6602b1dfcfbe98812a956e
+KW  - agroindustry
+KW  - Causal relationships
+KW  - Conceptual graph
+KW  - Conceptual graphs
+KW  - decision support system
+KW  - Decision support systems
+KW  - Design and implementations
+KW  - Expert knowledge-base
+KW  - food industry
+KW  - food quality
+KW  - Functional specification
+KW  - knowledge
+KW  - Knowledge acquisition
+KW  - Knowledge based systems
+KW  - Knowledge extraction
+KW  - Knowledge representation
+KW  - methodology
+KW  - questionnaire survey
+KW  - Schematic diagrams
+KW  - Structuring knowledge
+KW  - Surveys
+KW  - Systematic methodology
+KW  - User interfaces
+VL  - 163
+SN  - 01681699 (ISSN)
+J2  - Comput. Electron. Agric.
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 6; Correspondence Address: P. Buche; INRA, Montpellier Supagro, University of Montpellier, IATE, INRIA GraphiK, France; email: patrice.buche@inra.fr; CODEN: CEAGE
+ER  - 
+
+30.
+TY  - CONF
+TI  - PrFood: Ontology Principles for Provenance and Risk in the Food Domain
+AU  - Batlajery, B.V.
+AU  - Weal, M.
+AU  - Chapman, A.
+AU  - Moreau, L.
+T2  - Proceedings - 12th IEEE International Conference on Semantic Computing, ICSC 2018
+AB  - An ontology, a formal representation of domain knowledge, is an integral building block of the semantic web and is important in building an application within interdisciplinary domains. In the food domain, regulations require Food Business Operators (FBOs) to comply with traceability and track-ability measures when handling food in order to assess risk. In this paper, we identify several requirements to model food, food history, and risk of contamination in order to support the safety regulations of food. Using those requirements, we also identify and apply several design principles for building an ontology called prFood that encompasses interdisciplinary domains, food and risk. In order to apply safe handling of food in the food supply chain, we integrate and incorporate the pre-existing food ontologies with prFood by implementing a mapping procedure. Finally, we validate our approach by answering several use cases derived from EU and/or UK Food Regulations. © 2018 IEEE.
+C3  - Proc. - IEEE Int. Conf. Semantic Comput., ICSC
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/ICSC.2018.00012
+SP  - 17
+EP  - 24
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048396206&doi=10.1109%2fICSC.2018.00012&partnerID=40&md5=5411807997554f2c5ab7b1f84224f5a8
+KW  - Building blockes
+KW  - Design Principles
+KW  - Domain knowledge
+KW  - food
+KW  - Food ontology
+KW  - Food products
+KW  - Food supply
+KW  - Formal representations
+KW  - ontology
+KW  - Ontology
+KW  - provenance
+KW  - risk
+KW  - Risk assessment
+KW  - Risk of contamination
+KW  - Risks
+KW  - Safe handling
+KW  - Safety regulations
+KW  - semantic web
+KW  - Semantic Web
+KW  - Supply chains
+VL  - 2018-January
+SN  - 978-153864407-2 (ISBN)
+LA  - English
+PB  - Institute of Electrical and Electronics Engineers Inc.
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 3; Correspondence Address: B.V. Batlajery; Electronics and Computer Science, University of Southampton, Southampton, United Kingdom; email: b.v.batlajery@soton.ac.uk
+ER  - 
+
+31.
+TY  - JOUR
+TI  - Integrating collective know-how for multicriteria decision support in agrifood chains-application to cheesemaking
+AU  - Buche, P
+AU  - Couteaux, J
+AU  - Cufi, J
+AU  - Destercke, S
+AU  - Oudot, A
+T2  - FRONTIERS IN ARTIFICIAL INTELLIGENCE
+AB  - Agrifood chain processes are based on a multitude of knowledge, know-how and experiences forged over time. This collective expertise must be shared to improve food quality. Here we test the hypothesis that it is possible to design and implement a comprehensive methodology to create a knowledge base integrating collective expertise, while also using it to recommend technical actions required to improve food quality. The method used to test this hypothesis consists firstly in listing the functional specifications that were defined in collaboration with several partners (technical centers, vocational training schools, producers) over the course of several projects carried out in recent years. Secondly, we propose an innovative core ontology that utilizes the international languages of the Semantic Web to effectively represent knowledge in the form of decision trees. These decision trees will depict potential causal relationships between situations of interest and provide recommendations for managing them through technological actions, as well as a collective assessment of the efficiency of those actions. We show how mind map files created using mind-mapping tools are automatically translated into an RDF knowledge base using the core ontological model. Thirdly, a model to aggregate individual assessments provided by technicians and associated with technical action recommendations is proposed and evaluated. Finally, a multicriteria decision-support system (MCDSS) using the knowledge base is presented. It consists of an explanatory view allowing navigation in a decision tree and an action view for multicriteria filtering and possible side effect identification. The different types of MCDSS-delivered answers to a query expressed in the action view are explained. The MCDSS graphical user interface is presented through a real-use case. Experimental assessments have been performed and confirm that tested hypothesis is relevant.
+DA  - 2023/04/28/
+PY  - 2023
+DO  - 10.3389/frai.2023.1145007
+KW  - cheesemaking
+KW  - decision support systems
+KW  - expertise integration
+KW  - knowledge representation
+KW  - ontology
+KW  - Semantic Web
+VL  - 6
+SN  - 2624-8212
+LA  - English
+N1  - ASReview_relevant
+N1  - Times Cited in Web of Science Core Collection:&nbsp;&nbsp;0<br/>Total Times Cited:&nbsp;&nbsp;0<br/>Cited Reference Count:&nbsp;&nbsp;21
+AN  - WOS:000985176100001
+ER  - 
+
+32.
+TY  - JOUR
+TI  - A framework for evaluating agricultural ontologies
+AU  - Goldstein, A.
+AU  - Fink, L.
+AU  - Ravid, G.
+T2  - Sustainability (Switzerland)
+AB  - An ontology is a formal representation of domain knowledge, which can be interpreted by machines. In recent years, ontologies have become a major tool for domain knowledge representation and a core component of many knowledge management systems, decision-support systems and other intelligent systems, inter alia, in the context of agriculture. A review of the existing literature on agricultural ontologies, however, reveals that most of the studies, which propose agricultural ontologies, are lacking an explicit evaluation procedure. This is undesired because without well-structured evaluation processes, it is difficult to consider the value of ontologies to research and practice. Moreover, it is difficult to rely on such ontologies and share them on the Semantic Web or between semantic-aware applications. With the growing number of ontology-based agricultural systems and the increasing popularity of the Semantic Web, it becomes essential that such evaluation methods are applied during the ontology development process. Our work contributes to the literature on agricultural ontologies by presenting a framework that guides the selection of suitable evaluation methods, which seems to be missing from most existing studies on agricultural ontologies. The framework supports the matching of appropriate evaluation methods for a given ontology based on the ontology’s purpose. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.
+DA  - 2021///
+PY  - 2021
+DO  - 10.3390/su13116387
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85108156348&doi=10.3390%2fsu13116387&partnerID=40&md5=54550fecfcfa9cc021fdf0455e63baf6
+KW  - Agricultural ontology
+KW  - Decision support
+KW  - decision support system
+KW  - detection method
+KW  - knowledge
+KW  - management practice
+KW  - methodology
+KW  - Ontology evaluation
+KW  - OWL
+KW  - Pest control
+VL  - 13
+SN  - 20711050 (ISSN)
+J2  - Sustainability
+IS  - 11
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 15; Correspondence Address: A. Goldstein; Department of Industrial Engineering and Management, Ariel University, Ariel, 4077634, Israel; email: anatgo@ariel.ac.il
+ER  - 
+
+33.
+TY  - JOUR
+TI  - Ontological Support System of Managerial Decision-Making of Production Tasks for a Food Enterprise
+AU  - Lutska, N.
+AU  - Vlasenko, L.
+AU  - Ladanyuk, A.
+AU  - Zaiets, N.
+AU  - Korobiichuk, I.
+T2  - Machinery and Energetics
+AB  - Resource and energy efficiency of industrial production, in particular, food production, is a defining requirement that will ensure its functioning without loss of quality and quantity of final products. This is achieved by observing the requirements for the operational parameters of the company’s technological processes and their operational changes. Given the complexity of the functioning of the energy component of the world and Ukraine due to military operations and their consequences, the issue of quality/cost ratio has become more acute. Therefore, for large manufacturing enterprises, the development of systems for supporting management decision-making in accordance with the Industry 4.0 concept becomes relevant. This will contribute to improving the production and economic indicators of the enterprise through coordinated actions of all links of production activities by structuring and processing large amounts of heterogeneous information. The purpose of the study is to develop a decision support system for the task of choosing the structure of an automated control system based on an ontological knowledge base. The developed application ontology uses descriptive logic and is interpreted as part of a digital production double implemented by a single ontological knowledge base and ontological repository. Considering existing international standards, the OWL2 language was chosen for the implementation of the ontological knowledge base. The ontology system architecture contains an ontology server, a Node-Red application, and a user form. A project decision support system that issues recommendations based on requests for the structure of the control system for a technological facility with uncertainties, considering the requirements and restrictions set for each technological process of a food enterprise, reduces the time to choose the appropriate structures, schemes, and methods. Thus, the designer receives the necessary information, supported by knowledge from the subject area, for the synthesis of an effective automated control system. It is also assumed that the ontological system will be expanded by connecting new created applied ontologies that implement related tasks of an industrial enterprise. © 2022, National University of Life and Environmental Sciences of Ukraine. All rights reserved.
+DA  - 2022///
+PY  - 2022
+DO  - 10.31548/machenergy.13(3).2022.53-61
+SP  - 53
+EP  - 61
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85179946488&doi=10.31548%2fmachenergy.13%283%29.2022.53-61&partnerID=40&md5=176dacb3244ba34e00c31d0e0cf7e6a3
+KW  - applied ontology
+KW  - control system
+KW  - decision support system
+KW  - mathematical model
+KW  - robust controller
+KW  - subject area
+KW  - technology object
+VL  - 13
+SN  - 26631334 (ISSN)
+J2  - Mach. Energ.
+IS  - 3
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 2
+ER  - 
+
+34.
+TY  - JOUR
+TI  - A Personalized Recommendation System to Support Diabetes Self-Management for American Indians
+AU  - Alian, S
+AU  - Li, J
+AU  - Pandey, V
+T2  - IEEE ACCESS
+AB  - The epidemic of diabetes in American Indian (AI) communities is a serious public health challenge. The incidence and prevalence of diabetes have increased dramatically with accompanying increases in body weight and diminished physical activity. In this paper, we propose a proactive diabetes self-care recommendation system specifically for AI patients. It recommends healthy life style to users to fight for their diabetes. Thanks to the quasi-ubiquitous use of cellphones in most AI tribes, we choose cellphones as the platform to provide smart personal care for AI patients. By integrating the AI users' ontological profile with general clinical diabetes recommendation and guidelines, the system can make personalized recommendations (e.g., food intake and physical workout) based on the special socioeconomic, cultural, and geographical status particularly to AI patients. The proposed system was implemented as mobile applications. Evaluations performed by use case studies and human expert verification demonstrate the effectiveness of the system.
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/ACCESS.2018.2882138
+SP  - 73041
+EP  - 73051
+KW  - American Indian
+KW  - diabetes
+KW  - FOOD
+KW  - logic
+KW  - ontology
+KW  - ONTOLOGY
+KW  - personalization
+KW  - reasoning
+KW  - recommendation
+KW  - self-management
+VL  - 6
+SN  - 2169-3536
+LA  - English
+N1  - ASReview_relevant
+N1  - Times Cited in Web of Science Core Collection:&nbsp;&nbsp;26<br/>Total Times Cited:&nbsp;&nbsp;27<br/>Cited Reference Count:&nbsp;&nbsp;38
+AN  - WOS:000453721300001
+ER  - 
+
+35.
+TY  - CONF
+TI  - Recommender System based on Food and Exercise Ontologies to Find the Suitable Fitness Exercise Plan with the Aid of Python
+AU  - Basnayake, Chamali
+AU  - Peiris, Chandika
+AU  - Wickramarathna, Harshani
+AU  - Jayathunga, Poornima
+T2  - 2021 5th SLAAI International Conference on Artificial Intelligence (SLAAI-ICAI)
+AB  - In the modern world, professionals of diverse industrial sectors have severely become victims of Obese and Overweight conditions. Obese and Overweight conditions can be minimized by having proper dietary plans, physical activities and minimizing alcohol-based relaxation. In this research context, we try to address the issue of having poor physical exercise. We guide professionals with suitable exercises to reduce their weight in order to have the required Body Mass Index(BMI). The user body measurements that are recommended by the domain experts to concern such as sex, height, weight, exercise preferences, age, diet details and medical history used to calculate the degree of obesity of each individual. Then the degree of obesity is mapped with the knowledge base along with the predefined rules in order to match respective exercises suitable for the particular individuals that are compatible with the user’s medical history. Two ontologies for foods and exercises were developed using Protégé 4.3.0 and were retrieved by running Simple Protocol and Resource Description Framework Query Language (SPARQL) queries. Python 3 is used as the backend language for ontology and interface integration. Frontend developed using Tkinter GUI in Python 3 and is presented for the users to ease the interaction with the system. Two ontological files of Foods and Exercises are loaded and tested for consistency using the HermiT reasoner with the aid of Owlready2. Accuracy and Correctness are checked by addressing the competency questions and by domain experts’ inspections.
+C3  - 2021 5th SLAAI International Conference on Artificial Intelligence (SLAAI-ICAI)
+DA  - 2021/12//
+PY  - 2021
+DO  - 10.1109/SLAAI-ICAI54477.2021.9664742
+DP  - IEEE Xplore
+SP  - 1
+EP  - 6
+UR  - https://ieeexplore.ieee.org/document/9664742/
+Y2  - 2024/06/25/14:31:45
+L1  - files/1342/Basnayake et al. - 2021 - Recommender System based on Food and Exercise Onto.pdf
+L2  - files/1343/9664742.html
+KW  - Exercises
+KW  - Inspection
+KW  - Knowledge based systems
+KW  - Obesity
+KW  - Ontologies
+KW  - Ontology
+KW  - Protocols
+KW  - Python
+KW  - Resource description framework
+KW  - SPARQL
+KW  - Tkinter
+KW  - Weight measurement
+N1  - ASReview_relevant
+ER  - 
+
+36.
+TY  - CONF
+TI  - Big data architecture for environmental analytics
+AU  - Dutta, R.
+AU  - Li, C.
+AU  - Smith, D.
+AU  - Das, A.
+AU  - Aryal, J.
+T2  - IFIP Advances in Information and Communication Technology
+AB  - This paper aims to develop big data based knowledge recommendation framework architecture for sustainable precision agricultural decision support system using Computational Intelligence (Machine Learning Analytics) and Semantic Web Technology (Ontological Knowledge Representation). Capturing domain knowledge about agricultural processes, understanding about soil, climatic condition based harvesting optimization and undocumented farmers’ valuable experiences are essential requirements to develop a suitable system. Architecture to integrate data and knowledge from various heterogeneous data sources, combined with domain knowledge captured from the agricultural industry has been proposed. The proposed architecture suitability for heterogeneous big data integration has been examined for various environmental analytics based decision support case studies. © IFIP International Federation for Information Processing 2015.
+C3  - IFIP Advances in Information and Communication Technology
+DA  - 2015///
+PY  - 2015
+DO  - 10.1007/978-3-319-15994-2_59
+SP  - 578
+EP  - 588
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84922801231&doi=10.1007%2f978-3-319-15994-2_59&partnerID=40&md5=74a7dfce1d4d545f86e0879a0a3e8903
+KW  - Agricultural decision support
+KW  - Agricultural industries
+KW  - Agricultural process
+KW  - Agriculture
+KW  - Application programs
+KW  - Architecture
+KW  - Big data
+KW  - Climatic conditions
+KW  - Data integration
+KW  - Decision support systems
+KW  - Framework architecture
+KW  - Heterogeneous data sources
+KW  - Knowledge representation
+KW  - Learning systems
+KW  - Machine learning
+KW  - Proposed architectures
+KW  - Semantic Web technology
+KW  - Semantics
+VL  - 448
+SN  - 18684238 (ISSN); 978-331915993-5 (ISBN)
+LA  - English
+PB  - Springer New York LLC
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 10
+ER  - 
+
+37.
+TY  - CONF
+TI  - The semantic web as a platform against risk and uncertainty in agriculture
+AU  - Illescas Espinoza, W.H.
+AU  - Fernandez, A.
+AU  - Torres, D.
+T2  - IFIP Advances in Information and Communication Technology
+AB  - In this article, we discuss existing literature on DSS in agriculture, on DSS that use data available in the Semantic Web, and on Semantic Web initiatives focusing on agriculture information. Our goal is to assess the readiness of the Semantic Web as a platform to empower DSS that can keep risk and uncertainty in agriculture under control. Key agricultural activities targeted by DSS reported in literature are nutrient management, insect and pest management, land use and planning, environmental change and forecasting, and water and drought management. The most relevant use of Semantic Web in DSS, is in data analysis, as a means of making DSS more intelligent. There are initiatives to produce vocabularies and semantic repositories in the domain of agriculture. However, data and models are still isolated in specific domain repositories, and interoperability is still weak. © IFIP International Federation for Information Processing 2017.
+C3  - IFIP Advances in Information and Communication Technology
+DA  - 2017///
+PY  - 2017
+DO  - 10.1007/978-3-319-65151-4_67
+SP  - 753
+EP  - 760
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029603311&doi=10.1007%2f978-3-319-65151-4_67&partnerID=40&md5=1a0660619f2c3fac2526eb760def2bc5
+KW  - Agricultural activities
+KW  - Agriculture
+KW  - Artificial intelligence
+KW  - Decision support systems
+KW  - Drought management
+KW  - Environmental change
+KW  - Land use
+KW  - Nutrient management
+KW  - Pest management
+KW  - Risk and uncertainty
+KW  - Risk assessment
+KW  - Semantic repository
+KW  - Semantic web
+KW  - Semantic Web
+KW  - Uncertainty analysis
+KW  - Virtual corporation
+VL  - 506
+SN  - 18684238 (ISSN); 978-331965150-7 (ISBN)
+LA  - English
+PB  - Springer New York LLC
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 1; Correspondence Address: D. Torres; LIFIA, Fac. Informática, UNLP, La Plata, 1900, Argentina; email: diego.torres@lifia.info.unlp.edu.ar
+ER  - 
+
+38.
+TY  - CONF
+TI  - Enhancing Explanaibility in AI: Food Recommender System Use Case
+AU  - Tessa, M.
+AU  - Abchiche, S.
+AU  - Ferstler, Y.C.
+AU  - Tchappi, I.
+AU  - Benatchba, K.
+AU  - Najjar, A.
+T2  - ACM International Conference Proceeding Series
+AB  - As automated decision-making systems proliferate, accountability becomes crucial. Developers must ensure adherence to regulations and fairness. Explainable AI offers a remedy by crafting algorithms that provide precise outcomes and understandable explanations. This paper focuses on food recommender system interpretability for better health. Integrating explainable AI empowers users to make informed dietary decisions. The proposed framework generates natural language explanations for recommendations using the prompting technique, demonstrating superior performance and broad applicability across domains. © 2023 Owner/Author.
+C3  - ACM Int. Conf. Proc. Ser.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1145/3623809.3623938
+SP  - 395
+EP  - 397
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180123247&doi=10.1145%2f3623809.3623938&partnerID=40&md5=4e462cccd4f150ac6f4fec3fd86a7768
+KW  - Automated decision making systems
+KW  - Decision making
+KW  - Explainable AI
+KW  - Interpretability
+KW  - Natural language explanations
+KW  - Nutrition
+KW  - Nutrition virtual coach
+KW  - Performance
+KW  - Prompt engineering
+KW  - Recommender systems
+KW  - System use
+SN  - 979-840070824-4 (ISBN)
+LA  - English
+PB  - Association for Computing Machinery
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 0
+ER  - 
+
+39.
+TY  - CONF
+TI  - Improving e-Commerce Collaborative Recommendations by Semantic Inference of Neighbors' Practical Expertise
+AU  - M. I. Martin-Vicente
+AU  - A. Gil-Solla
+AU  - M. Ramos-Cabrer
+AU  - Y. Blanco-Fern´ndez
+AU  - M. Lopez-Nores
+T2  - 2011 Sixth International Workshop on Semantic Media Adaptation and Personalization
+AB  - E-commerce has become a major application domain for recommender systems due to its business interest. These tools aim to identify the products each user may like or find useful, which can boost users' consumption. Particularly, collaborative recommender systems rely on a set of like-minded users to select the products to offer. Taking into account the expertise of the users who drive such decision can increase the accuracy of the process. However, current approaches require extra data, that is not often available, to obtain expertise measures. In this paper, we apply a semantic approach to get a measure of practical expertise by exploiting the data available in any e-commerce recommender system-the consumption histories of the users. This way, we improve recommendation results transparently to the users.
+C3  - 2011 Sixth International Workshop on Semantic Media Adaptation and Personalization
+DA  - 2011/12/01/2
+PY  - 2011
+DO  - 10.1109/SMAP.2011.12
+SP  - 9
+EP  - 14
+KW  - Cognition
+KW  - Collaboration
+KW  - collaborative filtering
+KW  - Dairy products
+KW  - expertise
+KW  - History
+KW  - Ontologies
+KW  - personalized e-commerce
+KW  - Recommender systems
+KW  - semantic reasoning
+KW  - Semantics
+N1  - ASReview_relevant
+ER  - 
+
+40.
+TY  - CONF
+TI  - Metrics for Evaluating Explainable Recommender Systems
+AU  - Hulstijn, J.
+AU  - Tchappi, I.
+AU  - Najjar, A.
+AU  - Aydoğan, R.
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+AB  - Recommender systems aim to support their users by reducing information overload so that they can make better decisions. Recommender systems must be transparent, so users can form mental models about the system’s goals, internal state, and capabilities, that are in line with their actual design. Explanations and transparent behaviour of the system should inspire trust and, ultimately, lead to more persuasive recommendations. Here, explanations convey reasons why a recommendation is given or how the system forms its recommendations. This paper focuses on the question how such claims about effectiveness of explanations can be evaluated. Accordingly, we investigate various models that are used to assess the effects of explanations and recommendations. We discuss objective and subjective measurement and argue that both are needed. We define a set of metrics for measuring the effectiveness of explanations and recommendations. The feasibility of using these metrics is discussed in the context of a specific explainable recommender system in the food and health domain. © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+C3  - Lect. Notes Comput. Sci.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1007/978-3-031-40878-6_12
+SP  - 212
+EP  - 230
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172263345&doi=10.1007%2f978-3-031-40878-6_12&partnerID=40&md5=6ca44e2a8f9bb016feb0b3cbbea13d2f
+KW  - Artificial intelligence
+KW  - Evaluation
+KW  - Explainable AI
+KW  - Information overloads
+KW  - Internal state
+KW  - Mental model
+KW  - Metric
+KW  - Metrics
+KW  - Objective and subjective measurements
+KW  - Recommender systems
+VL  - 14127 LNAI
+SN  - 03029743 (ISSN); 978-303140877-9 (ISBN)
+LA  - English
+PB  - Springer Science and Business Media Deutschland GmbH
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 0; Correspondence Address: J. Hulstijn; University of Luxembourg, Esch-sur-Alzette, Luxembourg; email: joris.hulstijn@uni.lu
+ER  - 
+
+41.
+TY  - CONF
+TI  - Ontology-based knowledge and optimization model for Decision Support System to intercropping
+AU  - Phoksawat, Kornkanok
+AU  - Mahmuddin, Massudi
+T2  - 2016 International Computer Science and Engineering Conference (ICSEC)
+AB  - Agriculture is one of the most significant domains in need of knowledge sharing and Decision Support Systems (DSS) that can help farmers make decisions to solve complex problems. Monoculture agriculture has many problems such as plant disease dramatically decreasing product price. Intercropping is an alternative way to reduce a risk of market price and plant disease. This research proposes three research objectives: (1) To determine the knowledge domain of intercropping planning system, (2) To develop an ontology-based knowledge prototype aimed at addressing the DSS of the planning intercropping system, and (3) To design an optimization model used for decision-making for the intercropping system. In this paper we present the ontology-based knowledge and multi-objective obtimization model to drive the decision support system for intercropping based on constraint factors from an individual farmer for illustrating maximum income and minimizing the cost for cultivating the plants.
+C3  - 2016 International Computer Science and Engineering Conference (ICSEC)
+DA  - 2016/12//
+PY  - 2016
+DO  - 10.1109/ICSEC.2016.7859927
+DP  - IEEE Xplore
+SP  - 1
+EP  - 6
+UR  - https://ieeexplore.ieee.org/document/7859927/
+Y2  - 2024/06/25/14:31:30
+L1  - files/1314/Phoksawat and Mahmuddin - 2016 - Ontology-based knowledge and optimization model fo.pdf
+L2  - files/1315/7859927.html
+KW  - Agriculture
+KW  - Decision making
+KW  - Decision support systems
+KW  - DSS intercropping
+KW  - Economics
+KW  - Intercropping
+KW  - Multi-objectives problem
+KW  - Ontologies
+KW  - Ontology-based knowledge
+KW  - Optimization
+KW  - Optimization model
+KW  - OWL
+N1  - ASReview_relevant
+ER  - 
+
+42.
+TY  - CONF
+TI  - C-FaRM: A collaborative and context aware framework for requirements management
+AU  - S. Ghosh
+AU  - A. Dubey
+AU  - S. Ramaswamy
+T2  - 2011 4th International Workshop on Managing Requirements Knowledge
+AB  - Requirements management for globally managed large scale projects is a complex task, primarily due to the involvement of several stakeholders, multiple technologies, enormous information, and frequently changing business needs. Managing requirements communicated through mediums such as emails, chat messages, etc. is difficult due the lack of explicit context and the extensive use of unstructured information. This paper describes a requirements management framework, C-FaRM, which helps in managing requirements knowledge from multiple types of requirements artifacts. The framework makes use of custom ontology based recommender system that helps in prioritization, visualization, and negotiation of requirements.
+C3  - 2011 4th International Workshop on Managing Requirements Knowledge
+DA  - 2011/08/30/30
+PY  - 2011
+DO  - 10.1109/MARK.2011.6046560
+SP  - 29
+EP  - 30
+KW  - Collaboration
+KW  - Conferences
+KW  - Context
+KW  - Decision support systems
+KW  - Electronic mail
+KW  - Ontologies
+KW  - Software engineering
+N1  - ASReview_relevant
+ER  - 
+
+43.
+TY  - JOUR
+TI  - Interdisciplinary IoT and Emotion Knowledge Graph-Based Recommendation System to Boost Mental Health
+AU  - Gyrard, A.
+AU  - Boudaoud, K.
+T2  - Applied Sciences (Switzerland)
+AB  - Humans are feeling emotions every day, but they can still encounter difficulties understanding them. To better understand emotions, we integrated interdisciplinary knowledge about emotions from various domains such as neurosciences (e.g., neurobiology), physiology, and psychology (affective sciences, positive psychology, cognitive psychology, psychophysiology, neuropsychology, etc.). To organize the knowledge, we employ technologies such as Artificial Intelligence with Knowledge Graphs and Semantic Reasoning. Furthermore, Internet of Things (IoT) technologies can help to acquire physiological data knowledge. The goal of this paper is to aggregate the interdisciplinary knowledge and implement it within the Emotional Knowledge Graph (EmoKG). The Emotional Knowledge Graph is used within our naturopathy recommender system that suggests food to boost emotion (e.g., chocolate contains magnesium that is recommended when we feel depressed). The recommender system also answers a set of competency questions to easily retrieve emotional related-knowledge from EmoKG, such as what are the basic emotions and the more sophisticated ones, what are the neurotransmitters and hormones related to emotions, etc. To follow FAIR principles, EmoKG is mapped to existing knowledge bases found on the BioPortal biomedical ontology catalog such as SNOMEDCT, FMA, RXNORM, MedDRA, and also from emotion ontologies (when available online). We design the LOV4IoT-Emotion ontology catalog that encourages researchers from heterogeneous communities to apply FAIR principles by releasing online their (emotion) ontologies, datasets, rules, etc. The set of ontology codes shared online can be semi-automatically processed; if not available, the scientific publications describing the emotion ontologies are semi-automatically processed with Natural Language Processing (NLP) technologies. This research is also relevant for other use cases such as European projects (ACCRA for emotional robots to reduce the social isolation of aging people, StandICT for standardization, and AI4EU for Artificial Intelligence) and alliances for IoT such as AIOTI. The recommender system can be extended to address other advice such as aromatherapy and take into consideration medical devices to monitor patients’ vital signals related to emotions and mental health. © 2022 by the authors.
+DA  - 2022///
+PY  - 2022
+DO  - 10.3390/app12199712
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139833122&doi=10.3390%2fapp12199712&partnerID=40&md5=73c02d8beb78359014d389a8259cdfa4
+KW  - affective computing
+KW  - affective sciences
+KW  - FAIR principles
+KW  - Internet of Things
+KW  - knowledge graph
+KW  - knowledge graphs
+KW  - ontology
+KW  - personalized emotional knowledge graph
+KW  - psychophysiology
+KW  - reusability
+KW  - semantic data interoperability
+KW  - semantic web of things
+KW  - semantic web technologies
+VL  - 12
+SN  - 20763417 (ISSN)
+J2  - Appl. Sci.
+IS  - 19
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 4; Correspondence Address: A. Gyrard; Trialog, Research and Innvovation, Paris, 75008, France; email: ameliegyrard@gmail.com
+ER  - 
+
+44.
+TY  - CONF
+TI  - A Prediction and Recommendation System for Diabetes Mellitus using XAI-based Lime Explainer
+AU  - P, Nagaraj
+AU  - V, Muneeswaran
+AU  - A, Dharanidharan
+AU  - K, Balananthanan
+AU  - M, Arunkumar
+AU  - C, Rajkumar
+T2  - 2022 International Conference on Sustainable Computing and Data Communication Systems (ICSCDS)
+AB  - Diabetes Mellitus is a chronic disease and many people have been affected by this disease. Early diabetes prognosis can lead to improved treatment for the victims. Data mining methods are widely used to predict the disease early. This research [paper uses XAI (Explainable Artificial Intelligence). Various tools are used to determine the selection of key attributes and the integration, prediction, and mining rules of a diabetic organization. Since XAI is used, everyone can get the procedure without any problem. Here, four algorithms are utilized and in that, the best algorithm will be selected to obtain the best accuracy and provide a traumatic complement program. This paper has proposed a diabetes predictor model for better diabetes classification that includes a few external factors that cause diabetes as well as common factors such as Glucose, BMI, Age, Insulin, etc. Separation accuracy is improved with the new database compared to the extended database. If they do not have the precision of infection, healthy food will be provided to prevent diabetes.
+C3  - 2022 International Conference on Sustainable Computing and Data Communication Systems (ICSCDS)
+DA  - 2022/04//
+PY  - 2022
+DO  - 10.1109/ICSCDS53736.2022.9760847
+DP  - IEEE Xplore
+SP  - 1472
+EP  - 1478
+UR  - https://ieeexplore.ieee.org/document/9760847/
+Y2  - 2024/06/25/14:41:52
+L1  - files/1705/P et al. - 2022 - A Prediction and Recommendation System for Diabete.pdf
+L2  - files/1706/9760847.html
+KW  - Classification algorithms
+KW  - Classifier algorithm
+KW  - Databases
+KW  - Diabetes
+KW  - Diabetes Prediction
+KW  - Explainer
+KW  - LIME
+KW  - Machine learning algorithms
+KW  - Prediction algorithms
+KW  - Predictive models
+KW  - Recommendation
+KW  - Support vector machines
+N1  - ASReview_relevant
+ER  - 
+
+45.
+TY  - JOUR
+TI  - AHMoSe: A knowledge-based visual support system for selecting regression machine learning models
+AU  - Rojo, D.
+AU  - Htun, N.N.
+AU  - Parra, D.
+AU  - De Croon, R.
+AU  - Verbert, K.
+T2  - Computers and Electronics in Agriculture
+AB  - Decision support systems have become increasingly popular in the domain of agriculture. With the development of automated machine learning, agricultural experts are now able to train, evaluate and make predictions using cutting edge machine learning (ML) models without the need for much ML knowledge. Although this automated approach has led to successful results in many scenarios, in certain cases (e.g., when few labeled datasets are available) choosing among different models with similar performance metrics is a difficult task. Furthermore, these systems do not commonly allow users to incorporate their domain knowledge that could facilitate the task of model selection, and to gain insight into the prediction system for eventual decision making. To address these issues, in this paper we present AHMoSe, a visual support system that allows domain experts to better understand, diagnose and compare different regression models, primarily by enriching model-agnostic explanations with domain knowledge. To validate AHMoSe, we describe a use case scenario in the viticulture domain, grape quality prediction, where the system enables users to diagnose and select prediction models that perform better. We also discuss feedback concerning the design of the tool from both ML and viticulture experts. © 2021 Elsevier B.V.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/j.compag.2021.106183
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107960558&doi=10.1016%2fj.compag.2021.106183&partnerID=40&md5=8b86db7145e048b8b84236c8ef58ba58
+KW  - Agriculture
+KW  - Automated machine learning
+KW  - Automated Machine Learning
+KW  - Automated machines
+KW  - automation
+KW  - Automation
+KW  - decision making
+KW  - Decision making
+KW  - decision support system
+KW  - Decision Support System
+KW  - Decision support systems
+KW  - Decision supports
+KW  - design
+KW  - Domain knowledge
+KW  - Explainable AI
+KW  - Forecasting
+KW  - knowledge
+KW  - Knowledge based
+KW  - Knowledge based systems
+KW  - machine learning
+KW  - Machine learning
+KW  - Machine learning models
+KW  - Machine-learning
+KW  - performance assessment
+KW  - prediction
+KW  - regression analysis
+KW  - Regression analysis
+KW  - Support systems
+KW  - Visual analytics
+KW  - Visual Analytics
+VL  - 187
+SN  - 01681699 (ISSN)
+J2  - Comput. Electron. Agric.
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 5; Correspondence Address: D. Rojo; Department of Computer Science, KU Leuven, Leuven, Belgium; email: diego.rojogarcia@kuleuven.be; CODEN: CEAGE
+ER  - 
+
+46.
+TY  - CONF
+TI  - Ontology Techniques for Representing the Problem of Discourse: Design of Solution Application Perspective
+AU  - S. J. Miah
+AU  - H. Islam
+AU  - A. Z. H. Samsudin
+T2  - 2016 IEEE International Conference on Computer and Information Technology (CIT)
+AB  - Ontology has been applied in various problem domains such as health, agriculture, public administration and business management, to develop solution models for effective knowledge modelling. The models help define structures of knowledge components and their relationship among them within a problem domain that may provide better representation of a system design architecture. Such basic model of knowledge components can provide a transparent approach for enhancing design thinking and comprehension for both users and system developers. This makes the ontology technique as one of the prominent techniques for designing system solution in a context-sensitive manner. In this paper, we describe the use of ontology in two design cases for representing the problem universe of discourse. First design case is on a record management system and second case is on a decision support system. For both system design cases, the ontology technique provided benefits for gaining semantic integration and interoperability in designing the solutions. Findings from our studies suggest that ontology enables provisions both to end users and to system developers for achieving design goals that in turn maximize various user benefits.
+C3  - 2016 IEEE International Conference on Computer and Information Technology (CIT)
+DA  - 2016/12/08/10
+PY  - 2016
+DO  - 10.1109/CIT.2016.115
+SP  - 148
+EP  - 153
+KW  - Decision making
+KW  - Decision support systems
+KW  - design solution
+KW  - end-users
+KW  - History
+KW  - interoperability
+KW  - Interoperability
+KW  - Ontologies
+KW  - ontology-driven applications
+KW  - Semantics
+KW  - Solution design
+KW  - system research
+N1  - ASReview_relevant
+ER  - 
+
+47.
+TY  - JOUR
+TI  - C3PO: a crop planning and production process ontology and knowledge graph
+AU  - Darnala, B.
+AU  - Amardeilh, F.
+AU  - Roussey, C.
+AU  - Todorov, K.
+AU  - Jonquet, C.
+T2  - Frontiers in Artificial Intelligence
+AB  - Vegetable crop farmers diversify their production by growing a range of crops during the season on the same plot. Crop diversification and rotation enables farmers to increase their income and crop yields while enhancing their farm sustainability against climatic events and pest attacks. Farmers must plan their agricultural work per year and over successive years. Planning decisions are made on the basis of their experience regarding previous plans. For the purpose of assisting farmers in planning decisions and monitoring, we developed the Crop Planning and Production Process Ontology (C3PO), i.e., a representation of agricultural knowledge and data for diversified crop production. C3PO is composed of eight modules to capture all crop production dimensions and complexity for representing farming practices and constraints. It encodes agricultural processes and farm plot organization and captures common agricultural knowledge. C3PO introduces a representation of technical itineraries, i.e., sequences of technical farming tasks to grow vegetables, from soil identification and seed selection to harvest and storage. C3PO is the backbone of a knowledge graph which aggregates data from heterogeneous related semantic resources, e.g., organism taxonomies, chemicals, reference crop listings, or development stages. C3PO and its knowledge graph are used by the Elzeard enterprise to develop knowledge-based decision support systems for farmers. This article describes how we built C3PO and its knowledge graph—which are both publicly available—and briefly outlines their applications. Copyright © 2023 Darnala, Amardeilh, Roussey, Todorov and Jonquet.
+DA  - 2023///
+PY  - 2023
+DO  - 10.3389/frai.2023.1187090
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175371508&doi=10.3389%2ffrai.2023.1187090&partnerID=40&md5=97bdc46251b8b204d95743d6201c7b70
+KW  - agriculture
+KW  - crop planning
+KW  - crop production process
+KW  - digital farming
+KW  - knowledge graph
+KW  - knowledge representation
+KW  - ontology
+KW  - semantic resource
+VL  - 6
+SN  - 26248212 (ISSN)
+J2  - Frontier. Artif. Intell.
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 0; Correspondence Address: B. Darnala; LIRMM, CNRS, University of Montpellier, Montpellier, France; email: baptiste.darnala@elzeard.co; C. Jonquet; LIRMM, CNRS, University of Montpellier, Montpellier, France; email: clement.jonquet@inrae.fr
+ER  - 
+
+48.
+TY  - CONF
+TI  - An open framework for multi-source, cross-domain personalisation with semantic interest graphs
+AU  - Heitmann, B.
+T2  - RecSys'12 - Proceedings of the 6th ACM Conference on Recommender Systems
+AB  - Cross-domain recommendations are currently available in closed, proprietary social networking ecosystems such as Facebook, Twitter and Google+. I propose an open framework as an alternative, which enables cross-domain recommendations with domain-agnostic user profiles modelled as semantic interest graphs. This novel framework covers all parts of a recommender system. It includes an architecture for privacy-enabled profile exchange, a distributed and domainagnostic user model and a cross-domain recommendation algorithm. This enables users to receive recommendations for a target domain (e.g. food) based on any kind of previous interests. Copyright © 2012 by the Association for Computing Machinery, Inc. (ACM).
+C3  - RecSys - Proc. ACM Conf. Recomm. Syst.
+DA  - 2012///
+PY  - 2012
+DO  - 10.1145/2365952.2366030
+SP  - 313
+EP  - 316
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84867392446&doi=10.1145%2f2365952.2366030&partnerID=40&md5=8e6e4fb60f76ebed63af58a583ac85c0
+KW  - Cross-domain
+KW  - Domain-agnostic
+KW  - Facebook
+KW  - Multi-source
+KW  - Multisources
+KW  - Open frameworks
+KW  - Personalisation
+KW  - Recommendation algorithms
+KW  - Recommender systems
+KW  - Semantics
+KW  - Social networking (online)
+KW  - Target domain
+KW  - User models
+KW  - User profile
+SN  - 978-145031270-7 (ISBN)
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 12; Correspondence Address: B. Heitmann; Digital Enterprise Research Institute (DERI), National University of Ireland, Galway, Ireland; email: benjamin.heitmann@deri.org
+ER  - 
+
+49.
+TY  - CONF
+TI  - Towards Explainable Recommender Systems for Illiterate Users
+AU  - Tchappi, I.
+AU  - Hulstijn, J.
+AU  - Sinyabe Pagou, E.
+AU  - Bhattacharya, S.
+AU  - Najjar, A.
+T2  - ACM International Conference Proceeding Series
+AB  - Explainable AI (XAI) has emerged in recent years as a set of techniques to build systems that enable humans to understand the outcomes produced by artificial intelligent entities. Although these initiatives have advanced over the past few years, most approaches focus on explanations that are meant for literate or even skilled end users such as engineers, researchers etc. Few works available in the literature address the needs of illiterate end-users in XAI (illiterate centered design). This paper proposes a generic model to extract the contents of explanations from a given explainable AI system, and translate them into a representation format that illiterate end users may understand. The usefulness of the model is shown by reference to an application of a food recommender system. © 2023 Owner/Author.
+C3  - ACM Int. Conf. Proc. Ser.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1145/3623809.3623945
+SP  - 415
+EP  - 416
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180128970&doi=10.1145%2f3623809.3623945&partnerID=40&md5=1657a71c51ec06c9fe38b8e7cbe1c120
+KW  - AI and diversity
+KW  - AI systems
+KW  - Artificial intelligent
+KW  - Build systems
+KW  - End-users
+KW  - Explainable AI
+KW  - Generic modeling
+KW  - illiteracy
+KW  - Illiteracy
+KW  - Illiterate users
+KW  - Recommender systems
+KW  - User centered design
+KW  - user-centered design
+SN  - 979-840070824-4 (ISBN)
+LA  - English
+PB  - Association for Computing Machinery
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 0
+ER  - 
+
+50.
+TY  - JOUR
+TI  - Health-aware food recommendation system with dual attention in heterogeneous graphs
+AU  - Forouzandeh, S
+AU  - Rostami, M
+AU  - Berahmand, K
+AU  - Sheikhpour, R
+T2  - COMPUTERS IN BIOLOGY AND MEDICINE
+AB  - Recommender systems (RS) have been increasingly applied to food and health. However, challenges still remain, including the effective incorporation of heterogeneous information and the discovery of meaningful relationships among entities in the context of food and health recommendations. To address these challenges, we propose a novel framework, the Health-aware Food Recommendation System with Dual Attention in Heterogeneous Graphs (HFRS-DA), for unsupervised representation learning on heterogeneous graph-structured data. HFRS-DA utilizes an attention technique to reconstruct node features and edges and employs a dual hierarchical attention mechanism for enhanced unsupervised learning of attributed graph representations. HFRS-DA addresses the challenge of effectively leveraging the heterogeneous information in the graph and discovering meaningful semantic relationships between entities. The framework analyses recipe components and their neighbours in the heterogeneous graph and can discover popular and healthy recipes, thereby promoting healthy eating habits. We compare HFRS-DA using the Allrecipes dataset and find that it outperforms all the related methods from the literature. Our study demonstrates that HFRS-DA enhances the unsupervised learning of attributed graph representations, which is important in scenarios where labelled data is scarce or unavailable. HFRS-DA can generate node embeddings for unused data effectively, enabling both inductive and transductive learning.
+DA  - 2024/02//undefined
+PY  - 2024
+DO  - 10.1016/j.compbiomed.2023.107882
+KW  - Attention
+KW  - DISEASES
+KW  - Health food recommendation system
+KW  - Heterogeneous Information Networks (HIN)
+VL  - 169
+SN  - 0010-4825
+LA  - English
+N1  - ASReview_relevant
+N1  - Times Cited in Web of Science Core Collection:&nbsp;&nbsp;2<br/>Total Times Cited:&nbsp;&nbsp;2<br/>Cited Reference Count:&nbsp;&nbsp;81
+AN  - WOS:001150305700001
+ER  - 
+
+51.
+TY  - CONF
+TI  - Visualization and Analysis of Global Agricultural E-Commerce Research Based on Knowledge Graph
+AU  - H. Song
+AU  - Y. Li
+AU  - Y. Wang
+T2  - 2019 International Conference on Communications, Information System and Computer Engineering (CISCE)
+AB  - In order to gain an insight into the current research of agricultural e-commerce, this paper makes a visual analysis through the relevant literature collected in the Web of Science database. The published literature mining from different years, disciplines, countries(or regions), and the literature mainly contain basic research, applied research, research hotspots and frontiers. Knowledge graph, the method we use in this paper, provides an intuitive and convenient way for researchers to better understand the research status of agricultural e-commerce. Also, the results could strongly provide relevant reference for domestic studies in the same field.
+C3  - 2019 International Conference on Communications, Information System and Computer Engineering (CISCE)
+DA  - 2019/07/05/7
+PY  - 2019
+DO  - 10.1109/CISCE.2019.00112
+SP  - 480
+EP  - 485
+KW  - agricultural e-commerce
+KW  - Agriculture
+KW  - Bibliometrics
+KW  - Business
+KW  - Economics
+KW  - knowledge graph
+KW  - research hotspots and frontiers
+KW  - Time-frequency analysis
+KW  - Tools
+KW  - Visualization
+N1  - ASReview_relevant
+ER  - 
+
+52.
+TY  - CONF
+TI  - Linking Data for Ontology Based Advising in Healthcare
+AU  - Nisheva-Pavlova, Maria
+AU  - Hadzhiyski, Stoyan
+AU  - Mihaylov, Iliyan
+AU  - Avdjieva, Irena
+AU  - Vassilev, Dimitar
+T2  - 2020 International Conference Automatics and Informatics (ICAI)
+AB  - Along with the massive influence of computational technologies in medical research and practice, the wide generation of patient, clinical and lab tests data make the assistance of intelligent information systems very important for correct therapy, surveillance and advising of the patient. Medical data is highly heterogeneous and with different structure and formats. Principal tasks of the work are focused at intelligent integration of all data related to a particular patient. Aside with the methodological aspects of linking medical data, an important part of the discussed study focuses on the design and development of a special purpose decision support system. This system enriches a specific ontology for diabetes mellitus with a set of newly defined rules, supporting the development of broad and more precise personalized dietary recommendations as a part of digitized healthcare assistance.
+C3  - 2020 International Conference Automatics and Informatics (ICAI)
+DA  - 2020/10//
+PY  - 2020
+DO  - 10.1109/ICAI50593.2020.9311382
+DP  - IEEE Xplore
+SP  - 1
+EP  - 5
+UR  - https://ieeexplore.ieee.org/document/9311382/
+Y2  - 2024/06/25/14:31:28
+L1  - files/1310/Nisheva-Pavlova et al. - 2020 - Linking Data for Ontology Based Advising in Health.pdf
+L2  - files/1311/9311382.html
+KW  - Blood
+KW  - Data integration
+KW  - decision support system
+KW  - Diabetes
+KW  - Glucose
+KW  - intelligent information system
+KW  - Linked data
+KW  - Ontologies
+KW  - ontology
+KW  - personalized healthcare
+KW  - Proteins
+KW  - semantic interoperability
+N1  - ASReview_relevant
+ER  - 
+
+53.
+TY  - JOUR
+TI  - SyrAgri: A Recommender System for Agriculture in Mali
+AU  - Konaté, J
+AU  - Diarra, AG
+AU  - Diarra, SO
+AU  - Diallo, A
+T2  - INFORMATION
+AB  - This paper focuses on recommender system for agriculture in Mali called SyrAgri. The goal is to guide and improve the quality-of-experience of farmers by offering them good farming practices according to their needs. Two types of recommendations are essentially taken into account: the recommendation of crops and the recommendation of farming practices based on some predefined criteria which are: yield, life cycle of the crop, type of soil, growing season, etc. SyrAgri also informs farmers about crop rotation and the similarity between different types of crops based on the following parameters: crop families, growing seasons and appropriate soil types. For the development of this system a hybrid recommendation approach was used: demographic, semantic and collaborative methods. Each method is adapted to a specific stage of a user's visit to the system. The demographic approach is first activated in order to offer recommendations to new users of the system, which resolves the concept of cold start (immediate inclusion of a new item or a new user in the system). The semantic approach is then activated to recommend to the user items (crops, agricultural practices) semantically close to those (s)he has appreciated. Finally, the collaborative approach is used to recommend items that similar users have liked.
+DA  - 2020/12//undefined
+PY  - 2020
+DO  - 10.3390/info11120561
+KW  - agriculture
+KW  - artificial intelligence
+KW  - decision making
+KW  - recommander systems
+VL  - 11
+SN  - 2078-2489
+IS  - 12
+LA  - English
+N1  - ASReview_relevant
+N1  - Times Cited in Web of Science Core Collection:&nbsp;&nbsp;5<br/>Total Times Cited:&nbsp;&nbsp;5<br/>Cited Reference Count:&nbsp;&nbsp;30
+AN  - WOS:000602143000001
+ER  - 
+
+54.
+TY  - CONF
+TI  - A Real-Time Biofeedback Health Advisory System for Children Care
+AU  - H. Badawi
+AU  - M. Eid
+AU  - A. El Saddik
+T2  - 2012 IEEE International Conference on Multimedia and Expo Workshops
+AB  - Biofeedback sensors for health monitoring are rapidly growing in terms of ubiquity and cost. They enable remote, accurate, and low-cost health monitoring and can provide personalized health monitoring and care with timely detection of health issues, especially for children. In this paper, we propose a novel system for real-time personalized health advisory system for children in order to promote healthy habits and activities (including food, clothing, and activities). The system utilizes Electronic Child Record (ECR) that is continuously updated according to the captured measurements from biofeedback devices, and ontologies for vitamins/allergies, to provide personalized semantic-based recommendations. The preliminary evaluation demonstrated the potential of the proposed system to promote well being of children and facilitate the communication among parties involved in the children care (parents, school staff, and health care staff).
+C3  - 2012 IEEE International Conference on Multimedia and Expo Workshops
+DA  - 2012/07/09/13
+PY  - 2012
+DO  - 10.1109/ICMEW.2012.81
+SP  - 429
+EP  - 434
+KW  - Biofeedback Technology
+KW  - Biological control systems
+KW  - Dairy products
+KW  - Decision Support System
+KW  - Decision support systems
+KW  - Educational institutions
+KW  - Health Ontology
+KW  - Health Profile
+KW  - Ontologies
+KW  - Pediatrics
+KW  - Real time systems
+N1  - ASReview_relevant
+ER  - 
+
+55.
+TY  - JOUR
+TI  - The virtual food system: Innovative models and experiential feedback in technologies for winemaking, the cereals chain, food packaging and eco-designed starter production
+AU  - Aceves Lara, C.A.
+AU  - Athès, V.
+AU  - Buche, P.
+AU  - Della Valle, G.
+AU  - Farines, V.
+AU  - Fonseca, F.
+AU  - Guillard, V.
+AU  - Kansou, K.
+AU  - Kristiawan, M.
+AU  - Monclus, V.
+AU  - Mouret, J.-R.
+AU  - Ndiaye, A.
+AU  - Neveu, P.
+AU  - Passot, S.
+AU  - Pénicaud, C.
+AU  - Sablayrolles, J.-M.
+AU  - Salmon, J.-M.
+AU  - Thomopoulos, R.
+AU  - Trelea, I.C.
+T2  - Innovative Food Science and Emerging Technologies
+AB  - This article presents an overview of five use-cases that illustrate food-system modeling approaches, most of them combining quantitative and qualitative methods. The cases deal with issues as diverse as: the modeling of winemaking fermentation; the choice of a food packaging material; the design of solid foam cereal products; argumentation modeling to support multistakeholder decision-making, and the control of freeze-drying for eco-design purposes. They tackle several challenges to modeling and knowledge engineering in food systems: capitalizing data and knowledge; structuring a shared vocabulary and domain knowledge in an ontology; formalizing viewpoints and contradictions from food-related debates; supporting multi-criteria decision-making. © 2017 Elsevier Ltd
+DA  - 2018///
+PY  - 2018
+DO  - 10.1016/j.ifset.2017.10.006
+SP  - 54
+EP  - 64
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031681096&doi=10.1016%2fj.ifset.2017.10.006&partnerID=40&md5=4f6f581f9258af16257abe446a9507ce
+KW  - Argumentation model
+KW  - Cereal products
+KW  - Decision making
+KW  - Decision support
+KW  - Decision support systems
+KW  - Decision supports
+KW  - Eco-design
+KW  - Ecodesign
+KW  - Feedback
+KW  - Foam control
+KW  - Food-packaging materials
+KW  - Information system
+KW  - Information systems
+KW  - Knowledge
+KW  - Modeling
+KW  - Models
+KW  - Multi criteria decision making
+KW  - Ontology
+KW  - Optimization
+KW  - Packaging machines
+KW  - Packaging materials
+KW  - Parameter
+KW  - Product design
+KW  - Qualitative
+KW  - Quantitative and qualitative methods
+KW  - Sensor
+KW  - Sensors
+KW  - Thermal processing (foods)
+VL  - 46
+SN  - 14668564 (ISSN)
+J2  - Innovative Food Sci. Emerg. Technol.
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 19; Correspondence Address: G. Della Valle; BIA, UR1268, INRA, Nantes, 44316, France; email: guy.della-valle@inra.fr
+ER  - 
+
+56.
+TY  - CONF
+TI  - Experimenting with facilitating collaborative travel recommendations
+AU  - A. Załuski
+AU  - M. Ganzha
+AU  - M. Paprzycki
+AU  - C. Bădică
+AU  - A. Bădică
+AU  - M. Ivanović
+AU  - S. Fidanova
+AU  - I. Lirkov
+T2  - 2019 23rd International Conference on System Theory, Control and Computing (ICSTCC)
+AB  - The aim of undertaken work was to experiment with, and compare, various approaches to facilitate a collaborative recommender system, for travelers who would like to visit “tourist places”. For this purpose, different algorithms, including Kohonen-type neural networks (plain and elastic), as well as semantic technologies, have been applied to a dataset collected form the Web. Experiments have been performed for groups of users (measuring quality of recommendations), as well as for selected individuals. Completed comparison points out to main strength and weakness of each approach.
+C3  - 2019 23rd International Conference on System Theory, Control and Computing (ICSTCC)
+DA  - 2019/10/09/11
+PY  - 2019
+DO  - 10.1109/ICSTCC.2019.8885795
+SP  - 260
+EP  - 265
+KW  - Collaboration
+KW  - collaborative filtering
+KW  - Correlation
+KW  - Databases
+KW  - Kohonen self-organizing maps
+KW  - Recommender system
+KW  - Recommender systems
+KW  - Self-organizing feature maps
+KW  - semantic technologies
+KW  - Standards
+SN  - 2372-1618
+N1  - ASReview_relevant
+ER  - 
+
+57.
+TY  - CONF
+TI  - Understanding Machine Learning & its Application in Obesity Estimation by Explainable AI
+AU  - Mahadi, Mahin Khan
+AU  - Rahad, Rummanur
+AU  - Abdullah
+AU  - Noman, Abu
+AU  - Ishrat, Samiha
+AU  - Faisal, Fahim
+T2  - 2024 International Conference on Inventive Computation Technologies (ICICT)
+AB  - The escalating prevalence of obesity poses a formidable challenge to global public health, necessitating innovative approaches for accurate estimation and management. This research addresses this imperative by introducing an Explainable Artificial Intelligence (XAI) framework to estimate obesity levels. Meticulous hyperparameter tuning has resulted in elevated performance metrics, including accuracy, weighted precision, weighted recall, and weighted F1-score. Leveraging a decision support system, a robust machine learning model is developed exhibiting an impressive cross-validation accuracy of 97.39%. The model seamlessly integrates data on eating habits and physical condition, demonstrating improved performance in estimating obesity levels. The application of SHAP analysis unveils critical features within the dataset, thereby augmenting model interpretability and trustworthiness. The outcomes of this study provide a reliable tool for physicians, contributing to more informed clinical decisions in obesity management.
+C3  - 2024 International Conference on Inventive Computation Technologies (ICICT)
+DA  - 2024/04//
+PY  - 2024
+DO  - 10.1109/ICICT60155.2024.10544438
+DP  - IEEE Xplore
+SP  - 112
+EP  - 117
+UR  - https://ieeexplore.ieee.org/document/10544438/
+Y2  - 2024/06/25/14:41:48
+L1  - files/1701/Mahadi et al. - 2024 - Understanding Machine Learning & its Application i.pdf
+L2  - files/1702/10544438.html
+KW  - Analytical models
+KW  - classification
+KW  - Computational modeling
+KW  - Decision support systems
+KW  - Estimation
+KW  - Explainable AI
+KW  - explainable artificial intelligence
+KW  - hyperparameter-tuning
+KW  - machine learning
+KW  - Obesity
+KW  - Refining
+KW  - SHapley Additive exPlanations
+N1  - ASReview_relevant
+ER  - 
+
+58.
+TY  - JOUR
+TI  - An ontology model to represent aquaponics 4.0 system's knowledge
+AU  - Abbasi, R
+AU  - Martinez, P
+AU  - Ahmad, R
+T2  - INFORMATION PROCESSING IN AGRICULTURE
+AB  - Aquaponics, one of the vertical farming methods, is a combination of aquaculture and hydroponics. To enhance the production capabilities of the aquaponics system and maximize crop yield on a commercial level, integration of Industry 4.0 technologies is needed. Industry 4.0 is a strategic initiative characterized by the fusion of emerging technologies such as big data and analytics, internet of things, robotics, cloud computing, and artificial intelligence. The realization of aquaponics 4.0, however, requires an efficient flow and integration of data due to the presence of complex biological processes. A key challenge in this essence is to deal with the semantic heterogeneity of multiple data resources. An ontology that is regarded as one of the normative tools solves the semantic interoperation problem by describing, extracting, and sharing the domains' knowledge. In the field of agriculture, several ontologies are developed for the soil-based farming methods, but so far, no attempt has been made to represent the knowledge of the aquaponics 4.0 system in the form of an ontology model. Therefore, this study proposes a unified ontology model, AquaONT, to rep-resent and store the essential knowledge of an aquaponics 4.0 system. This ontology pro-vides a mechanism for sharing and reusing the aquaponics 4.0 system's knowledge to solve the semantic interoperation problem. AquaONT is built from indoor vertical farming terminologies and is validated and implemented by considering experimental test cases related to environmental parameters, design configuration, and product quality. The proposed ontology model will help vertical farm practitioners with more transparent decision -making regarding crop production, product quality, and facility layout of the aquaponics farm. For future work, a decision support system will be developed using this ontology model and artificial intelligence techniques for autonomous data-driven decisions.(c) 2021 China Agricultural University. Production and hosting by Elsevier B.V. on behalf of KeAi. This is an open access article under the CC BY-NC-ND license (http://creativecommons. org/licenses/by-nc-nd/4.0/).
+DA  - 2022/12//undefined
+PY  - 2022
+DO  - 10.1016/j.inpa.2021.12.001
+SP  - 514
+EP  - 532
+KW  - Aquaponics 4.0
+KW  - Decision support system
+KW  - Industry 4.0
+KW  - Knowledge modeling
+KW  - Ontology modeling
+KW  - TECHNOLOGIES
+VL  - 9
+SN  - 2214-3173
+IS  - 4
+LA  - English
+N1  - ASReview_relevant
+N1  - Times Cited in Web of Science Core Collection:&nbsp;&nbsp;15<br/>Total Times Cited:&nbsp;&nbsp;15<br/>Cited Reference Count:&nbsp;&nbsp;85
+AN  - WOS:001100029300004
+ER  - 
+
+59.
+TY  - CONF
+TI  - A Tunable and Explainable Attributes (TEA) for Recommendation System
+AU  - M. H. Farooq Butt
+AU  - J. P. Li
+AU  - T. Saboor
+T2  - 2020 17th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP)
+AB  - Recommender system in information retrieval systems recommends relevant items to consumers by inspecting the consumer's preferences and objective behaviours. We received recommendations daily regarding what to take in as food, buy, and choices about the wear trends. However, we can understand our recommendations, and even less, we can tune our preferences efficiently. One main concern is those undesired or irrelevant recommendations, not only wasting our time, but they also cost media companies millions of dollars every year. Considering this issue, we proposed a tunable and explainable recommendation system where the attributes that determined the recommendations are explainable and tunable for every individual consumer. Irrelevant recommendations waste the consumer's time and the company's money, but if we put the power of the recommendations in the consumer's hands, we have a win-win situation. The suggested method addresses recommendation algorithms issues, which creates negative feedback loops and allows consumers to be aware of the profile they are building and tune it to see the content that interests them most.
+C3  - 2020 17th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP)
+DA  - 2020/12/18/20
+PY  - 2020
+DO  - 10.1109/ICCWAMTIP51612.2020.9317519
+SP  - 39
+EP  - 43
+KW  - Explainable Recommendations
+KW  - Information Retrieval
+KW  - Matrix decomposition
+KW  - Measurement
+KW  - Motion pictures
+KW  - Predictive models
+KW  - Recommender System
+KW  - Recommender systems
+KW  - Semantics
+KW  - Training
+KW  - Tunable Preferences
+SN  - 2576-8964
+N1  - ASReview_relevant
+ER  - 
+
+60.
+TY  - CONF
+TI  - KEBAP: A Semantic Key Enabling Beverage and Appetite Platform enriched with Virtual Reality
+AU  - A. Kanak
+AU  - İ. Arif
+AU  - A. M. Karadeniz
+AU  - S. Ergün
+T2  - 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC)
+AB  - The food industry has been growing with the tremendous improvements in information technologies. The way of accessing foods has become diversified with innovative technologies based on new generation semantic frameworks and interaction technologies. The proposed web-based platform, namely KEBAP, is based on a semantic framework modeled by a food and food stakeholder combined ontology. The platform is presented by a case study that utilizes an innovative interaction facility based on Virtual Reality (VR). The online platform encounters gastronomic, cultural, personal, and nutritional factors affecting personal preferences, eaters' health status and regarding stakeholders in gastronomy sector. The proposed platform enables online promotion of food, conscious consumption and ordering of food over Internet, semantic filtering of food data and effective presentation and simulation of food and its environment with VR. The presented platform is designed by considering big data requirements that makes the proposed solution scalable to larger beverage and appetite data.
+C3  - 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC)
+DA  - 2019/10/06/9
+PY  - 2019
+DO  - 10.1109/SMC.2019.8913947
+SP  - 205
+EP  - 210
+KW  - Conferences
+KW  - Cybernetics
+SN  - 2577-1655
+N1  - ASReview_relevant
+ER  - 
+
+61.
+TY  - JOUR
+TI  - Ontology-based Daily Menu Recommendation System for Complementary Food According to Nutritional Needs using Naïve Bayes and TOPSIS
+AU  - Showafah, M.
+AU  - Sihwi, S.W.
+T2  - International Journal of Advanced Computer Science and Applications
+AB  - Babies begin to be given complementary feeding at the age of 6 to 24 months. Complementary foods given to babies need to meet nutritional needs according to their ages. Since, at these ages, babies are just learning to eat, it is necessary to plan a complementary food menu referring to the nutritional needs and the baby and mother's preferences. It is certainly not an easy thing for a mother. Therefore, a recommendation system is needed to determine the baby's daily menu according to those all. This research proposes a complementary food menu recommendation system that considers the balanced composition of three significant nutrients (carbohydrates, protein, and fat) in the diet. It also takes into account the baby and mother's preferences. The ontology contains Knowledge-based about food and its nutritional content and the nutritional needs of babies according to their ages. Naive Bayes is used to prepare menu options according to user preferences. TOPSIS method is used in this study to provide optimal recommendations regarding nutritional balance and user preferences. Several mothers who have had babies aged 6-24 months and mothers of babies aged 624 months were asked to test the recommendation system. The results of the usability testing of the system using SUS showed a good level of user satisfaction. © 2021. All Rights Reserved.
+DA  - 2021///
+PY  - 2021
+DO  - 10.14569/IJACSA.2021.0121173
+SP  - 638
+EP  - 645
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85121207013&doi=10.14569%2fIJACSA.2021.0121173&partnerID=40&md5=be14de8f7b1b977a4d01f8616de0ef49
+KW  - babies
+KW  - Baby
+KW  - Calorie
+KW  - complementary food
+KW  - Complementary food
+KW  - Knowledge based systems
+KW  - Naive bayes
+KW  - Naïve Bayes
+KW  - Nutrition
+KW  - Nutrition need
+KW  - nutrition needs
+KW  - ontology
+KW  - Ontology
+KW  - Ontology-based
+KW  - Ontology's
+KW  - recommendation system
+KW  - Recommender systems
+KW  - SUS
+KW  - TOPSIS
+KW  - User interfaces
+KW  - User's preferences
+VL  - 12
+SN  - 2158107X (ISSN)
+J2  - Intl. J. Adv.  Comput. Sci. Appl.
+IS  - 11
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 4
+ER  - 
+
+62.
+TY  - CONF
+TI  - Predicting Grass Growth for Sustainable Dairy Farming: A CBR System Using Bayesian Case-Exclusion and Post-Hoc, Personalized Explanation-by-Example (XAI)
+AU  - Kenny, E.M.
+AU  - Ruelle, E.
+AU  - Geoghegan, A.
+AU  - Shalloo, L.
+AU  - O’Leary, M.
+AU  - O’Donovan, M.
+AU  - Keane, M.T.
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+AB  - Smart agriculture has emerged as a rich application domain for AI-driven decision support systems (DSS) that support sustainable and responsible agriculture, by improving resource-utilization through better on-farm, management decisions. However, smart agriculture’s promise is often challenged by the high barriers to user adoption. This paper develops a case-based reasoning (CBR) system called PBI-CBR to predict grass growth for dairy farmers, that combines predictive accuracy and explanation capabilities designed to improve user adoption. The system provides post-hoc, personalized explanation-by-example for its predictions, by using explanatory cases from the same farm or county. A key novelty of PBI-CBR is its use of Bayesian methods for case exclusion in this regression domain. Experiments report the tradeoff that occurs between predictive accuracy and explanatory adequacy for different parametric variants of PBI-CBR, and how updating Bayesian priors each year reduces error. © 2019, Springer Nature Switzerland AG.
+C3  - Lect. Notes Comput. Sci.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1007/978-3-030-29249-2_12
+SP  - 172
+EP  - 187
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072850578&doi=10.1007%2f978-3-030-29249-2_12&partnerID=40&md5=ea3185822a34ddec4455e26b1c9fc035
+KW  - Agriculture
+KW  - Bayesian analysis
+KW  - Bayesian Analysis
+KW  - Bayesian methods
+KW  - Bayesian networks
+KW  - Case based reasoning
+KW  - Case based reasoning systems
+KW  - Case exclusion
+KW  - CBR
+KW  - Decision support system (dss)
+KW  - Decision support systems
+KW  - Forecasting
+KW  - Management decisions
+KW  - Predictive accuracy
+KW  - Resource utilizations
+KW  - Smart agriculture
+KW  - Smart agricultures
+KW  - XAI
+VL  - 11680 LNAI
+SN  - 03029743 (ISSN); 978-303029248-5 (ISBN)
+LA  - English
+PB  - Springer Verlag
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 16; Correspondence Address: E.M. Kenny; Insight Centre for Data Analytics, UCD, Dublin, Ireland; email: eoin.kenny@insight-centre.org
+ER  - 
+
+63.
+TY  - JOUR
+TI  - Deep Neural Network System Using Ontology to Recommend Organic Fertilizers for a Sustainable Agriculture
+AU  - Mummigatti, K.V.K.
+AU  - Chandramouli, S.M.
+AU  - Ramachandra, D.H.
+T2  - Ingenierie des Systemes d'Information
+AB  - The highest challenge humankind is facing in the current time period is the enormous population growth and the need to meet the food and nutrient to the population. To meet the enormous production, the farmers are more relayed on the usage of chemicals to increase the food production during the cultivation process. Inclination towards chemical fertilizers is because of their popularity and availability, the over usage of these chemicals is a root cause of many major problems like nutrient-less crops, soil quality degradation, and environmental hazards in the long run. The availability of a knowledge base of the soil quality parameters and their related organic fertilizers according to the farmer's region can decrease the inclination towards the utilization of chemical fertilizers and adopt the usage of organic fertilizers. To help in this process of a major change in farming we built an ontology oriented deep learning model which recommends the farmers in choosing the best organic fertilizers based on the soil quality. The domain ontology construction for agriculture is based on semantic language which can be reused in the future. The knowledge base is then utilized by the deep learning model to process the data and recommend the best suitable fertilizers. © 2023 International Information and Engineering Technology Association. All rights reserved.
+DA  - 2023///
+PY  - 2023
+DO  - 10.18280/isi.280222
+SP  - 461
+EP  - 467
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85162103758&doi=10.18280%2fisi.280222&partnerID=40&md5=8772c0ab8c3ee86738690c0953034599
+KW  - deep learning
+KW  - knowledge base
+KW  - ontology
+KW  - recommender system
+VL  - 28
+SN  - 16331311 (ISSN)
+J2  - Ing. Syst. Inf.
+IS  - 2
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 0; Correspondence Address: K.V.K. Mummigatti; Department of Computer Science, Sri Siddhartha Academy of Higher Education and Research, Tumkur, 572107, India; email: vmkushala@gmail.com
+ER  - 
+
+64.
+TY  - CONF
+TI  - FTTO: An example of Food Ontology for traceability purpose
+AU  - Pizzuti, Teresa
+AU  - Mirabelli, Giovanni
+T2  - 2013 IEEE 7th International Conference on Intelligent Data Acquisition and Advanced Computing Systems (IDAACS)
+AB  - This paper describes our experience in the development of the Food Track&Trace Ontology (FTTO), an ontology oriented to the domain of food traceability. FTTO is used to share knowledge between agents involved in the Food Supply Chain and intends to be a reference that permits to work with information obtained through the matching and merging of different controlled vocabularies. As part of a bigger research project, the FTTO has been designed to be connected with a Global Traceability Information Systems obtained through the modelling of the food Supply Chain and of data required for internal and chain traceability. The paper presents the project milestones and the creation of the core ontology emphasizing on the development of the main classes.
+C3  - 2013 IEEE 7th International Conference on Intelligent Data Acquisition and Advanced Computing Systems (IDAACS)
+DA  - 2013/09//
+PY  - 2013
+DO  - 10.1109/IDAACS.2013.6662689
+DP  - IEEE Xplore
+SP  - 281
+EP  - 286
+UR  - https://ieeexplore.ieee.org/document/6662689/
+Y2  - 2024/06/25/14:31:25
+L1  - files/1304/Pizzuti and Mirabelli - 2013 - FTTO An example of Food Ontology for traceability.pdf
+L2  - files/1305/6662689.html
+KW  - Databases
+KW  - food
+KW  - Food products
+KW  - Ontologies
+KW  - ontology
+KW  - OWL
+KW  - Semantics
+KW  - Standards
+KW  - Supply chains
+KW  - traceability
+VL  - 01
+ST  - FTTO
+N1  - ASReview_relevant
+ER  - 
+
+65.
+TY  - CONF
+TI  - Crop cultivation information system on mobile devices
+AU  - V. Kumar
+AU  - V. Dave
+AU  - R. Nagrani
+AU  - S. Chaudhary
+AU  - M. Bhise
+T2  - 2013 IEEE Global Humanitarian Technology Conference: South Asia Satellite (GHTC-SAS)
+AB  - Mobile devices are used extensively by the people for communication, music, entertainment, Internet and social networking. There is a lack of applications, which can be really useful for the professionals to improve their working capabilities. Though mobile phones are used by people living in rural areas, but there are hardly any relevant applications for them to improve their productivity. In this paper, we have proposed and implemented an information system for farmers which can be operated on their mobile phones. The system is developed using Service Oriented Architecture (SOA) to process spatial data and knowledge base. The knowledge base is maintained in the form of ontologies. The system is an effort to fill the gap between farmers and agricultural experts. A farmer can provide inputs related to crops being cultivated and location specific information to get specific suggestions, alerts and recommendations to improve productivity. It will be generated using the knowledge base. Whenever a farmer observes some anomalous behavior for crops or climate, the system is able to generate recommendations based on inputs provided. We have resolved some of the queries as a part of on-going work and results are displayed on an Android based mobile devices for demonstration of the system.
+C3  - 2013 IEEE Global Humanitarian Technology Conference: South Asia Satellite (GHTC-SAS)
+DA  - 2013/08/23/24
+PY  - 2013
+DO  - 10.1109/GHTC-SAS.2013.6629915
+SP  - 196
+EP  - 202
+KW  - Cotton
+KW  - Geographic information systems
+KW  - Knowledge based systems
+KW  - Ontologies
+KW  - Soil
+KW  - Web services
+N1  - ASReview_relevant
+ER  - 
+
+66.
+TY  - CONF
+TI  - ITO: Intelligent Traceability Ontology
+AU  - A. Bougdira
+AU  - I. Akharraz
+AU  - A. Ahaitouf
+T2  - 2019 International Conference on Intelligent Systems and Advanced Computing Sciences (ISACS)
+AB  - A traceability tool is an asset to the supply chain, especially the food one. The supply chain involves various sources of data, which is essential for effective traceability. Hence, a traceability system should overcome the heterogeneous data integration issue. Therefore, this paper introduces an ontology that formalizes the traceability tasks and surroundings elements to exchange information. Thus, this article describes the main features of an Intelligent Traceability Ontology (ITO). This ontology represents the main relationships between traceability activities and the entities involved in these activities. Moreover, this modeling can be used not only for tracing and tracking product information but also for supervising the product's environment parameters.
+C3  - 2019 International Conference on Intelligent Systems and Advanced Computing Sciences (ISACS)
+DA  - 2019/12/26/27
+PY  - 2019
+DO  - 10.1109/ISACS48493.2019.9068912
+SP  - 1
+EP  - 7
+KW  - Description Logics
+KW  - Humidity
+KW  - Indium tin oxide
+KW  - Ontologies
+KW  - Ontology
+KW  - Semantic Web Rule Language
+KW  - Sensors
+KW  - Supply chains
+KW  - Task analysis
+KW  - Temperature measurement
+KW  - Traceability
+N1  - ASReview_relevant
+ER  - 
+
+67.
+TY  - JOUR
+TI  - Enhancing crop recommendation systems with explainable artificial intelligence: a study on agricultural decision-making
+AU  - Shams, M.Y.
+AU  - Gamel, S.A.
+AU  - Talaat, F.M.
+T2  - Neural Computing and Applications
+AB  - Crop Recommendation Systems are invaluable tools for farmers, assisting them in making informed decisions about crop selection to optimize yields. These systems leverage a wealth of data, including soil characteristics, historical crop performance, and prevailing weather patterns, to provide personalized recommendations. In response to the growing demand for transparency and interpretability in agricultural decision-making, this study introduces XAI-CROP an innovative algorithm that harnesses eXplainable artificial intelligence (XAI) principles. The fundamental objective of XAI-CROP is to empower farmers with comprehensible insights into the recommendation process, surpassing the opaque nature of conventional machine learning models. The study rigorously compares XAI-CROP with prominent machine learning models, including Gradient Boosting (GB), Decision Tree (DT), Random Forest (RF), Gaussian Naïve Bayes (GNB), and Multimodal Naïve Bayes (MNB). Performance evaluation employs three essential metrics: Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R2). The empirical results unequivocally establish the superior performance of XAI-CROP. It achieves an impressively low MSE of 0.9412, indicating highly accurate crop yield predictions. Moreover, with an MAE of 0.9874, XAI-CROP consistently maintains errors below the critical threshold of 1, reinforcing its reliability. The robust R2 value of 0.94152 underscores XAI-CROP's ability to explain 94.15% of the data's variability, highlighting its interpretability and explanatory power. © The Author(s) 2024.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1007/s00521-023-09391-2
+SP  - 5695
+EP  - 5714
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182226843&doi=10.1007%2fs00521-023-09391-2&partnerID=40&md5=7df8d0e63b358f470ca4d1276147f5f2
+KW  - Adaptive boosting
+KW  - Agriculture
+KW  - Crop recommendation system
+KW  - Crop recommendation systems
+KW  - Crops
+KW  - Decision support system
+KW  - Decision support systems
+KW  - Decision trees
+KW  - Decisions makings
+KW  - Errors
+KW  - eXplainable artificial intelligence
+KW  - Explainable artificial intelligence
+KW  - Informed decision
+KW  - Interpretability
+KW  - Machine learning
+KW  - Machine learning models
+KW  - Machine-learning
+KW  - Mean absolute error
+KW  - Mean square error
+KW  - Mean squared error
+KW  - Naive bayes
+KW  - Recommender systems
+VL  - 36
+SN  - 09410643 (ISSN)
+J2  - Neural Comput. Appl.
+IS  - 11
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 3; Correspondence Address: F.M. Talaat; Faculty of Artificial Intelligence, Kafrelsheikh University, Kafrelsheikh, Egypt; email: fatma.nada@ai.kfs.edu.eg
+ER  - 
+
+68.
+TY  - JOUR
+TI  - Exploring Nutritional Influence on Blood Glucose Forecasting for Type 1 Diabetes Using Explainable AI
+AU  - Annuzzi, G.
+AU  - Apicella, A.
+AU  - Arpaia, P.
+AU  - Bozzetto, L.
+AU  - Criscuolo, S.
+AU  - De Benedetto, E.
+AU  - Pesola, M.
+AU  - Prevete, R.
+T2  - IEEE Journal of Biomedical and Health Informatics
+AB  - Type 1 diabetes mellitus (T1DM) is characterized by insulin deficiency and blood sugar control issues. The state-of-the-art solution is the artificial pancreas (AP), which integrates basal insulin delivery and glucose monitoring. However, APs are unable to manage postprandial glucose response (PGR) due to limited knowledge of its determinants, requiring additional information for accurate bolus delivery, such as estimated carbohydrate intake. This study aims to quantify the influence of various meal-related factors on predicting postprandial blood glucose levels (BGLs) at different time intervals (15 min, 60 min, and 120 min) after meals by using deep neural network (DNN) models. The prediction models incorporate preprandial blood glucose values, insulin dosage, and various meal-related nutritional factors such as intake of energy, carbohydrates, proteins, lipids, fatty acids, fibers, glycemic index, and glycemic load as input variables. The impact of input features was assessed by exploiting eXplainable Artificial Intelligence (XAI) methodologies, specifically SHapley Additive exPlanations (SHAP), which provide insights into each feature's contribution to the model predictions. By leveraging XAI methodologies, this study aims to enhance the interpretability and transparency of BGL prediction models and validate clinical literature hypotheses. The findings can aid in the development of decision-support tools for individuals with T1DM, facilitating PGR management and reducing the risks of adverse events. The improved understanding of PGR determinants may lead to advancements in AP technology and improve the overall quality of life for T1DM patients.  © 2013 IEEE.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/JBHI.2023.3348334
+SP  - 3123
+EP  - 3133
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181578555&doi=10.1109%2fJBHI.2023.3348334&partnerID=40&md5=bce15053d11b8b8ce217d0354e83659b
+KW  - adult
+KW  - Adult
+KW  - Article
+KW  - artificial intelligence
+KW  - Artificial Intelligence
+KW  - artificial neural network
+KW  - Artificial organs
+KW  - blood
+KW  - Blood
+KW  - Blood glucose
+KW  - Blood Glucose
+KW  - blood glucose monitoring
+KW  - Blood Glucose Self-Monitoring
+KW  - caloric intake
+KW  - carbohydrate
+KW  - carbohydrate intake
+KW  - cholesterol
+KW  - clinical article
+KW  - Decision support systems
+KW  - deep neural network
+KW  - Deep neural networks
+KW  - Diabetes Mellitus, Type 1
+KW  - explainable artificial intelligence
+KW  - Explainable artificial intelligence
+KW  - Fatty acids
+KW  - female
+KW  - Female
+KW  - forecasting
+KW  - Forecasting
+KW  - Glucose
+KW  - glucose blood level
+KW  - Glucose response
+KW  - glycemic control
+KW  - glycemic index
+KW  - glycemic load
+KW  - human
+KW  - Humans
+KW  - Insulin
+KW  - insulin dependent diabetes mellitus
+KW  - interpretability
+KW  - Interpretability
+KW  - learning algorithm
+KW  - machine learning
+KW  - Machine-learning
+KW  - male
+KW  - Male
+KW  - Meal-related feature
+KW  - meal-related features
+KW  - monounsaturated fatty acid
+KW  - Neural Networks, Computer
+KW  - nutrition
+KW  - Nutrition
+KW  - polyunsaturated fatty acid
+KW  - postprandial blood glucose response
+KW  - Postprandial blood glucose response
+KW  - prediction
+KW  - predictive model
+KW  - Predictive models
+KW  - procedures
+KW  - saturated fatty acid
+KW  - Shapley additive explanation
+VL  - 28
+SN  - 21682194 (ISSN)
+J2  - IEEE J. Biomedical Health Informat.
+IS  - 5
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 1; Correspondence Address: E. De Benedetto; University of Naples Federico II, Department of Electrical Engineering and Information Technology (DIETI), Naples, 80138, Italy; email: egidio.debenedetto@unina.it; CODEN: ITIBF
+ER  - 
+
+69.
+TY  - JOUR
+TI  - Semantic transportation planning for food products supply chain ecosystem within difficult geographic zones
+AU  - Memon, M.A.
+AU  - Karray, M.H.
+AU  - Letouzey, A.
+AU  - Archimède, B.
+T2  - Industrial Management and Data Systems
+AB  - Purpose – In difficult geographical zones (mountain, intra-cities areas, etc.), many shippers, from small and medium enterprises to individuals, may demand delivery of different food products (fresh, refrigerated, frozen, etc.) in small quantities. On the other side, carrier companies wish to use their vehicles optimally. Taking into account the perishability constraints (short-shelflife, temperature limits, etc.) of the transported food products and environmental constraints (pollution, carbon impact) while consolidating multiple kinds of food products to use vehicles optimally is not achieved by current transportation planning solutions. The purpose of this paper is to present an interoperable solution of a marketplace, formed by shippers and carriers, dedicated to the schedule of food transport orders. Design/methodology/approach – This transportation planning system named Interoperable-Pathfinder, Order, Vehicle, Environment and Supervisor (I-POVES) is an interoperable multi-agent system, based on the SCEP (supervisor, customer, environment and producer) model (Archimede and Coudert, 2001). Ontologies are developed to create the planning marketplace comprising demands and offers from different sources (multiple shippers and carriers). Findings – A hierarchy ontology for food products. A transporter system ontology. A global ontology that contains all shared concepts used by local ontologies of both shippers and carriers. I-POVES an interoperable model, which facilitates collaboration between carriers and their shippers through its active agents. Practical implications – I-POVES is tested on a case study from the TECCAS Poctefa project, comprising transport and food companies from both sides of the Pyrenees (France and Spain). Originality/value – There has been much work in the literature on the delivery of products, but very few on the delivery of food products. Work related to delivery of food products focuses mostly on timely delivery for avoiding its wastage. In this paper, constraints related to food products and to environment (pollution and carbon impact) of transport resources are taken into account while planning the delivery. © Muhammad Ali Memon, Mohamed Hedi Karray, Agnès Letouzey and Bernard Archimède. Published by Emerald Publishing Limited.
+DA  - 2017///
+PY  - 2017
+DO  - 10.1108/IMDS-10-2016-0459
+SP  - 2064
+EP  - 2084
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031295424&doi=10.1108%2fIMDS-10-2016-0459&partnerID=40&md5=694f08a0c4cc2adc5ed611b8b8571b38
+KW  - Commerce
+KW  - Design/methodology/approach
+KW  - Environmental constraints
+KW  - Environmental impact
+KW  - Food perishability constraints
+KW  - Food products
+KW  - Geographical zones
+KW  - Interoperability
+KW  - Multi agent systems
+KW  - Multi-agents systems
+KW  - Ontology
+KW  - Pollution
+KW  - Semantics
+KW  - Ships
+KW  - Small and medium enterprise
+KW  - Supervisory personnel
+KW  - Supply chains
+KW  - Temperature
+KW  - Temperature limits
+KW  - Transport resources
+KW  - Transportation
+KW  - Transportation planning
+KW  - Vehicles
+VL  - 117
+SN  - 02635577 (ISSN)
+J2  - Ind Manage Data Sys
+IS  - 9
+LA  - English
+DB  - Scopus
+N1  - ASReview_relevant
+N1  - Export Date: 25 June 2024; Cited By: 3; Correspondence Address: M.A. Memon; Institute of Information and Communication Technology, University of Sindh, Jamshoro, Pakistan; email: muhammad.ali@usindh.edu.pk; CODEN: IMDSD
+ER  - 
+
+70.
+TY  - CONF
+TI  - Ontology Based Orchid Knowledge Platform for Knowledge Services in Orchid Cluster
+AU  - T. Supnithi
+AU  - P. Paiboonrat
+AU  - M. Buranarach
+AU  - A. Kawtrakul
+AU  - S. Lekawatana
+AU  - A. Intalak
+AU  - S. Sangtien
+AU  - W. Choptham
+T2  - 2011 Annual SRII Global Conference
+AB  - Orchid is one of the economic crops in world market. The varieties of shape, style, color and smell of orchids attract people to create products in many ways, such as cut orchid, orchid plant, bouquet, lei, corsage, and orchid loose bloom and so on. Thailand is one of the biggest exporters in orchid market. There are a lot of processes in the chain, such as reproduction, cultivation, market trend survey and analysis, transportation, international trade standard, traceability and so on. In order to provide a smart knowledge service, we have to 1) managing knowledge efficiently in terms of sharing and reusing knowledge and 2) providing knowledge which matches to stakeholders. In this paper, we propose a general framework on ontology base orchid cluster platform for developing a user-centric model of knowledge services in orchid cluster. We give some examples on semantic search model, recommended system model and tracking and monitoring model respectively.
+C3  - 2011 Annual SRII Global Conference
+DA  - 2011/04/29/March-2
+PY  - 2011
+DO  - 10.1109/SRII.2011.62
+SP  - 540
+EP  - 549
+KW  - Agriculture
+KW  - knowledge service
+KW  - model
+KW  - Ontologies
+KW  - ontology
+KW  - orchid cluster platform
+KW  - Portals
+KW  - Production
+KW  - Supply chain management
+KW  - USA Councils
+SN  - 2166-0786
+N1  - ASReview_relevant
+ER  - 
+
+71.
+TY  - CONF
+TI  - Knowledge Graph for Aquaculture Recommendation System
+AU  - T. H
+AU  - M. P. M. M
+AU  - R. M. Pai
+T2  - 2021 IEEE Mysore Sub Section International Conference (MysuruCon)
+AB  - Aquaculture is a growing industry. It would be beneficial to the fish farmers if the data about the fish, such as the ecosystem, food and related information are available to them to increase the fish yield. Most of the fish species data of the aquaculture domain are stored using relational databases. However, the relational tables work well only for structured data. It would help the fishermen if the data can be visualized and provided with a suitable recommendation system that recommends the best species and best ecosystem. In this paper, an approach to store the details of fish species of the brackish water of the west coast of Karnataka, India using Neo4j is presented. Further, a recommendation system to retrieve the best fish species for a particular ecosystem is proposed. The data relating to fish species, names, threatened status, taxonomy, fish species location, type of water they survive in are stored as a connected graph in the Neo4j graph database. This helps the aquatic scientists and aquaculture users visualize the relationship among the fish species and get suitable recommendations on fish species based on their interests. The proposed system is scalable and is capable of processing any complex relationship for providing recommendations.
+C3  - 2021 IEEE Mysore Sub Section International Conference (MysuruCon)
+DA  - 2021/10/24/25
+PY  - 2021
+DO  - 10.1109/MysuruCon52639.2021.9641685
+SP  - 366
+EP  - 371
+KW  - Aquaculture
+KW  - Cypher Query Language
+KW  - Data visualization
+KW  - Ecosystems
+KW  - Fish
+KW  - Graph Database
+KW  - Industries
+KW  - Neo4j
+KW  - Query
+KW  - Recommender System
+KW  - Relational databases
+KW  - Taxonomy
+KW  - Visualization
+N1  - ASReview_relevant
+ER  - 
+
+72.
+TY  - JOUR
+TI  - Ontology-Assisted Expert System for Algae Identification With Certainty Factors
+AU  - Setiawan, FA
+AU  - Puspasari, R
+AU  - Manik, LP
+AU  - Akbar, Z
+AU  - Kartika, YA
+AU  - Satya, IA
+AU  - Saleh, DR
+AU  - Indrawati, A
+AU  - Suzuki, K
+AU  - Albasri, H
+AU  - Wada, M
+T2  - IEEE ACCESS
+AB  - Harmful algal blooms (HABs) are one of nature's responses to nutrient enrichment in aquatic systems and increasingly occur in coastal waters, such as in Lampung Bay and Jakarta Bay, Indonesia. HABs present environmental and fisheries management challenges due to their unpredictability, spatial coverage, and detrimental health effects on coastal organisms, including humans. Here, an automated algae species identification system assisted and validated by expert judgment was proposed. The system used ontology as guidance to determine the species of algae and certainty factors to indicate the level of confidence of the experts when providing a statement or judgment for a particular object or event under consideration. The system was tested to identify 60 samples using 51 predetermined algal characteristics. The tests were narrowed down to the 20 most common HAB-causing algae types found in the study sites and compared with identification by experts. The results showed that the system successfully identified the test data with an accuracy of 73.33%. The system also had a high agreement (above 79.75%) with the identification performed by experts on six algae species. Further improvement of the system's accuracy could facilitate its use as an alternative tool in rapid algal identification or part of an early warning system for HABs.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/ACCESS.2021.3123562
+SP  - 147665
+EP  - 147677
+KW  - Algae
+KW  - algae identification
+KW  - Aquaculture
+KW  - BLOOMS
+KW  - certainty factor
+KW  - expert system
+KW  - Expert systems
+KW  - Harmful algal bloom
+KW  - HEALTH
+KW  - Ontologies
+KW  - ontology
+KW  - Sea measurements
+KW  - Support vector machines
+KW  - Tides
+VL  - 9
+SN  - 2169-3536
+LA  - English
+N1  - ASReview_relevant
+N1  - Times Cited in Web of Science Core Collection:&nbsp;&nbsp;3<br/>Total Times Cited:&nbsp;&nbsp;3<br/>Cited Reference Count:&nbsp;&nbsp;24
+AN  - WOS:000716680400001
+ER  - 
+
+73.
+TY  - JOUR
+TI  - Ontology-Assisted Expert System for Algae Identification With Certainty Factors
+AU  - F. A. Setiawan
+AU  - R. Puspasari
+AU  - L. P. Manik
+AU  - Z. Akbar
+AU  - Y. A. Kartika
+AU  - I. A. Satya
+AU  - D. R. Saleh
+AU  - A. Indrawati
+AU  - K. Suzuki
+AU  - H. Albasri
+AU  - M. Wada
+T2  - IEEE Access
+AB  - Harmful algal blooms (HABs) are one of nature’s responses to nutrient enrichment in aquatic systems and increasingly occur in coastal waters, such as in Lampung Bay and Jakarta Bay, Indonesia. HABs present environmental and fisheries management challenges due to their unpredictability, spatial coverage, and detrimental health effects on coastal organisms, including humans. Here, an automated algae species identification system assisted and validated by expert judgment was proposed. The system used ontology as guidance to determine the species of algae and certainty factors to indicate the level of confidence of the experts when providing a statement or judgment for a particular object or event under consideration. The system was tested to identify 60 samples using 51 predetermined algal characteristics. The tests were narrowed down to the 20 most common HAB-causing algae types found in the study sites and compared with identification by experts. The results showed that the system successfully identified the test data with an accuracy of 73.33%. The system also had a high agreement (above 79.75%) with the identification performed by experts on six algae species. Further improvement of the system’s accuracy could facilitate its use as an alternative tool in rapid algal identification or part of an early warning system for HABs.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/ACCESS.2021.3123562
+SP  - 147665
+EP  - 147677
+KW  - Algae
+KW  - algae identification
+KW  - Aquaculture
+KW  - certainty factor
+KW  - expert system
+KW  - Expert systems
+KW  - Harmful algal bloom
+KW  - Ontologies
+KW  - ontology
+KW  - Sea measurements
+KW  - Support vector machines
+KW  - Tides
+VL  - 9
+SN  - 2169-3536
+J2  - IEEE Access
+N1  - ASReview_relevant
+ER  - 
+
+74.
+TY  - CONF
+TI  - The ontology model for selecting quality melons uses hidden semantic data based on melon knowledge domains
+AU  - Umar, Ubaidillah
+AU  - Sardjono, Tri Arief
+AU  - Kusuma, Hendra
+T2  - 2023 IEEE 13th Symposium on Computer Applications & Industrial Electronics (ISCAIE)
+AB  - A quality-oriented melon selection process is an important factor in increasing consumers willingness to pay. However, unlike most fruits, melons are usually sold whole, making it difficult to choose a perfectly ripe and sweet melon, as skin color and texture play an important role in this. From a marketing perspective, the selling power of melons is influenced by demand and supply. This paper presents a new approach by utilizing hidden semantic data on melon images derived from digital images. Semantic information on the surface of the melon is described, extracted, and shared as domain knowledge using an ontology approach that allows the relationship between parameters to produce descriptions and actions in determining the quality of the melon. Using K-Nearest Neighbor (KNN) to model the data that has been obtained from the visual data extraction process An information description approach using an ontology guided by KNN in determining the quality of the proposed melons can assist farmers in classifying quality melons at reasonable prices with limited human involvement.
+C3  - 2023 IEEE 13th Symposium on Computer Applications & Industrial Electronics (ISCAIE)
+DA  - 2023/05//
+PY  - 2023
+DO  - 10.1109/ISCAIE57739.2023.10164869
+DP  - IEEE Xplore
+SP  - 95
+EP  - 100
+UR  - https://ieeexplore.ieee.org/document/10164869/
+Y2  - 2024/06/25/14:31:36
+L1  - files/1324/Umar et al. - 2023 - The ontology model for selecting quality melons us.pdf
+L2  - files/1325/10164869.html
+KW  - Decision Support System
+KW  - Deep learning
+KW  - Digital images
+KW  - Image color analysis
+KW  - Image Processing.
+KW  - Industrial electronics
+KW  - KNN
+KW  - Knowledge Modeling
+KW  - Melon
+KW  - Ontologies
+KW  - Ontology
+KW  - Semantics
+KW  - Visualization
+N1  - ASReview_relevant
+ER  - 
+
+75.
+TY  - CONF
+TI  - Food Safety Block Chain System using Ontology in UHT Milk Factory
+AU  - Hemnil, Priyakorn
+AU  - Boonchieng, Ekkarat
+AU  - Osiriphun, Sukhuntha
+T2  - 2023 17th International Conference on Ubiquitous Information Management and Communication (IMCOM)
+AB  - This article details our experience setting up a UHT milk traceability system, which involved integrating blockchain technology to control the factory's food safety system and ontology technology to assist milk cooperatives provide a comprehensive perspective of the entire system. to the store in raw. The area of milk traceability is the key subject. Knowledge exchange between supply chain participants is facilitated by UHT milk and to serve as the guiding concept for milk quality assurance throughout the whole production chain.
+C3  - 2023 17th International Conference on Ubiquitous Information Management and Communication (IMCOM)
+DA  - 2023/01//
+PY  - 2023
+DO  - 10.1109/IMCOM56909.2023.10035606
+DP  - IEEE Xplore
+SP  - 1
+EP  - 5
+UR  - https://ieeexplore.ieee.org/document/10035606/
+Y2  - 2024/06/25/14:31:23
+L1  - files/1298/Hemnil et al. - 2023 - Food Safety Block Chain System using Ontology in U.pdf
+L2  - files/1299/10035606.html
+KW  - block chain
+KW  - Blockchains
+KW  - Dairy products
+KW  - food
+KW  - Ontologies
+KW  - ontology
+KW  - Production facilities
+KW  - Quality assurance
+KW  - Safety
+KW  - Supply chains
+KW  - traceability
+KW  - UHT milk
+N1  - ASReview_relevant
+ER  - 
