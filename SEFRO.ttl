@@ -1,0 +1,852 @@
+@prefix : <http://example.com#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix gufo: <http://purl.org/nemo/gufo#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://example.com> .
+
+<http://example.com> rdf:type owl:Ontology ;
+                      owl:imports gufo: .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://www.w3.org/1999/02/22-rdf-syntax-ns#label
+rdf:label rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2002/07/owl#minQualifiedCardinality
+owl:minQualifiedCardinality rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://example.com#foodCategoryHasNutrient
+:foodCategoryHasNutrient rdf:type owl:ObjectProperty ;
+                         rdfs:domain :FoodCategory ;
+                         rdfs:range :Nutrient .
+
+
+###  http://example.com#occassionEnumHasOccassionOfConsumption
+:occassionEnumHasOccassionOfConsumption rdf:type owl:ObjectProperty ;
+                                        rdfs:domain :OccassionEnum ;
+                                        rdfs:range :OccassionOfConsumption .
+
+
+###  http://example.com#recommendationHasExplanationComponent
+:recommendationHasExplanationComponent rdf:type owl:ObjectProperty ;
+                                       rdfs:domain :Recommendation ;
+                                       rdfs:range :ExplanationComponent .
+
+
+###  http://example.com#recommendationHasFoodCategory
+:recommendationHasFoodCategory rdf:type owl:ObjectProperty ;
+                               rdfs:domain :Recommendation ;
+                               rdfs:range :FoodCategory .
+
+
+###  http://example.com#recommendationHasOutput
+:recommendationHasOutput rdf:type owl:ObjectProperty ;
+                         rdfs:domain :Recommendation ;
+                         rdfs:range :Output .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://example.com#Age
+:Age rdf:type owl:DatatypeProperty ;
+     rdfs:subPropertyOf gufo:hasQualityValue ;
+     rdfs:domain :Person ;
+     rdfs:label "Age"@en .
+
+
+###  http://example.com#AmountOfCalories
+:AmountOfCalories rdf:type owl:DatatypeProperty ;
+                  rdfs:subPropertyOf gufo:hasQualityValue ;
+                  rdfs:domain :FoodCategory ;
+                  rdfs:label "AmountOfCalories"@en .
+
+
+###  http://example.com#AmountOfCaloriesPerMeal
+:AmountOfCaloriesPerMeal rdf:type owl:DatatypeProperty ;
+                         rdfs:subPropertyOf gufo:hasQualityValue ;
+                         rdfs:label "AmountOfCaloriesPerMeal"@en .
+
+
+###  http://example.com#AmountOfCarbs
+:AmountOfCarbs rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf gufo:hasQualityValue ;
+               rdfs:domain :Carbohydrate ;
+               rdfs:label "AmountOfCarbs"@en .
+
+
+###  http://example.com#AmountOfFat
+:AmountOfFat rdf:type owl:DatatypeProperty ;
+             rdfs:subPropertyOf gufo:hasQualityValue ;
+             rdfs:domain :Fat ;
+             rdfs:label "AmountOfFat"@en .
+
+
+###  http://example.com#AmountOfProtein
+:AmountOfProtein rdf:type owl:DatatypeProperty ;
+                 rdfs:subPropertyOf gufo:hasQualityValue ;
+                 rdfs:domain :Protein ;
+                 rdfs:label "AmountOfProtein"@en .
+
+
+###  http://example.com#BodyFat
+:BodyFat rdf:type owl:DatatypeProperty ;
+         rdfs:subPropertyOf gufo:hasQualityValue ;
+         rdfs:domain :Person ;
+         rdfs:label "BodyFat"@en .
+
+
+###  http://example.com#DietaryFiberRestricted
+:DietaryFiberRestricted rdf:type owl:DatatypeProperty ;
+                        rdfs:subPropertyOf gufo:hasQualityValue ;
+                        rdfs:label "DietaryFiberRestricted"@en .
+
+
+###  http://example.com#FatRestricted
+:FatRestricted rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf gufo:hasQualityValue ;
+               rdfs:label "FatRestricted"@en .
+
+
+###  http://example.com#FoodAllergies
+:FoodAllergies rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf gufo:hasQualityValue ;
+               rdfs:domain :Person ;
+               rdfs:label "FoodAllergies"@en .
+
+
+###  http://example.com#FoodIntolerances
+:FoodIntolerances rdf:type owl:DatatypeProperty ;
+                  rdfs:subPropertyOf gufo:hasQualityValue ;
+                  rdfs:domain :Person ;
+                  rdfs:label "FoodIntolerances"@en .
+
+
+###  http://example.com#FoodPreferences
+:FoodPreferences rdf:type owl:DatatypeProperty ;
+                 rdfs:subPropertyOf gufo:hasQualityValue ;
+                 rdfs:domain :Person ;
+                 rdfs:label "FoodPreferences"@en .
+
+
+###  http://example.com#GlucoseRestricted
+:GlucoseRestricted rdf:type owl:DatatypeProperty ;
+                   rdfs:subPropertyOf gufo:hasQualityValue ;
+                   rdfs:label "GlucoseRestricted"@en .
+
+
+###  http://example.com#GlutenFree
+:GlutenFree rdf:type owl:DatatypeProperty ;
+            rdfs:subPropertyOf gufo:hasQualityValue ;
+            rdfs:label "GlutenFree"@en .
+
+
+###  http://example.com#HallallFood
+:HallallFood rdf:type owl:DatatypeProperty ;
+             rdfs:subPropertyOf gufo:hasQualityValue ;
+             rdfs:label "HallallFood"@en .
+
+
+###  http://example.com#Height
+:Height rdf:type owl:DatatypeProperty ;
+        rdfs:subPropertyOf gufo:hasQualityValue ;
+        rdfs:domain :Person ;
+        rdfs:label "Height"@en .
+
+
+###  http://example.com#LactoseRestricted
+:LactoseRestricted rdf:type owl:DatatypeProperty ;
+                   rdfs:subPropertyOf gufo:hasQualityValue ;
+                   rdfs:label "LactoseRestricted"@en .
+
+
+###  http://example.com#LightDigestible
+:LightDigestible rdf:type owl:DatatypeProperty ;
+                 rdfs:subPropertyOf gufo:hasQualityValue ;
+                 rdfs:label "LightDigestible"@en .
+
+
+###  http://example.com#MuscleMass
+:MuscleMass rdf:type owl:DatatypeProperty ;
+            rdfs:subPropertyOf gufo:hasQualityValue ;
+            rdfs:domain :Person ;
+            rdfs:label "MuscleMass"@en .
+
+
+###  http://example.com#NEVOcode
+:NEVOcode rdf:type owl:DatatypeProperty ;
+          rdfs:subPropertyOf gufo:hasQualityValue ;
+          rdfs:domain :FoodCategory ;
+          rdfs:label "NEVOcode"@en .
+
+
+###  http://example.com#PerfomedLevelOfActivity
+:PerfomedLevelOfActivity rdf:type owl:DatatypeProperty ;
+                         rdfs:subPropertyOf gufo:hasQualityValue ;
+                         rdfs:domain :Person ;
+                         rdfs:label "PerfomedLevelOfActivity"@en .
+
+
+###  http://example.com#Pescatarian
+:Pescatarian rdf:type owl:DatatypeProperty ;
+             rdfs:subPropertyOf gufo:hasQualityValue ;
+             rdfs:label "Pescatarian"@en .
+
+
+###  http://example.com#SaltRestricted
+:SaltRestricted rdf:type owl:DatatypeProperty ;
+                rdfs:subPropertyOf gufo:hasQualityValue ;
+                rdfs:label "SaltRestricted"@en .
+
+
+###  http://example.com#Sex
+:Sex rdf:type owl:DatatypeProperty ;
+     rdfs:subPropertyOf gufo:hasQualityValue ;
+     rdfs:domain :Person ;
+     rdfs:label "Sex"@en .
+
+
+###  http://example.com#TotalAmountCaloriesPerDay
+:TotalAmountCaloriesPerDay rdf:type owl:DatatypeProperty ;
+                           rdfs:subPropertyOf gufo:hasQualityValue ;
+                           rdfs:label "TotalAmountCaloriesPerDay"@en .
+
+
+###  http://example.com#Vegan
+:Vegan rdf:type owl:DatatypeProperty ;
+       rdfs:subPropertyOf gufo:hasQualityValue ;
+       rdfs:label "Vegan"@en .
+
+
+###  http://example.com#Vegetarian
+:Vegetarian rdf:type owl:DatatypeProperty ;
+            rdfs:subPropertyOf gufo:hasQualityValue ;
+            rdfs:label "Vegetarian"@en .
+
+
+###  http://example.com#Weight
+:Weight rdf:type owl:DatatypeProperty ;
+        rdfs:subPropertyOf gufo:hasQualityValue ;
+        rdfs:domain :Person ;
+        rdfs:label "Weight"@en .
+
+
+###  http://example.com#WeightGoal
+:WeightGoal rdf:type owl:DatatypeProperty ;
+            rdfs:subPropertyOf gufo:hasQualityValue ;
+            rdfs:domain :Person ;
+            rdfs:label "WeightGoal"@en .
+
+
+###  http://purl.org/nemo/gufo#hasQualityValue
+gufo:hasQualityValue rdf:type owl:DatatypeProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://example.com#Added_Sugar
+:Added_Sugar rdf:type owl:Class ;
+             rdfs:subClassOf :FoodCategory .
+
+
+###  http://example.com#Beverages
+:Beverages rdf:type owl:Class ;
+           rdfs:subClassOf :FoodCategory .
+
+
+###  http://example.com#Carbohydrate
+:Carbohydrate rdf:type owl:Class ;
+              rdfs:subClassOf :MacroNutrient .
+
+
+###  http://example.com#ContextualExplanation
+:ContextualExplanation rdf:type owl:Class ;
+                       rdfs:subClassOf :ExplanationComponent .
+
+
+###  http://example.com#Dairy
+:Dairy rdf:type owl:Class ;
+       rdfs:subClassOf :FoodCategory .
+
+
+###  http://example.com#DiaryAllergy
+:DiaryAllergy rdf:type owl:Class ;
+              rdfs:subClassOf :FoodAllergy .
+
+
+###  http://example.com#ExplanationComponent
+:ExplanationComponent rdf:type owl:Class ;
+                      rdfs:subClassOf gufo:FunctionalComplex .
+
+
+###  http://example.com#Fat
+:Fat rdf:type owl:Class ;
+     rdfs:subClassOf :MacroNutrient .
+
+
+###  http://example.com#Fish
+:Fish rdf:type owl:Class ;
+      rdfs:subClassOf :FoodCategory .
+
+
+###  http://example.com#FishAllergy
+:FishAllergy rdf:type owl:Class ;
+             rdfs:subClassOf :FoodAllergy .
+
+
+###  http://example.com#FoodAllergy
+:FoodAllergy rdf:type owl:Class ;
+             rdfs:subClassOf :FoodCharacteristic .
+
+
+###  http://example.com#FoodCategory
+:FoodCategory rdf:type owl:Class ;
+              rdfs:subClassOf :FoodCharacteristic .
+
+
+###  http://example.com#FoodCharacteristic
+:FoodCharacteristic rdf:type owl:Class ;
+                    rdfs:subClassOf gufo:FunctionalComplex .
+
+
+###  http://example.com#Fruit
+:Fruit rdf:type owl:Class ;
+       rdfs:subClassOf :FoodCategory .
+
+
+###  http://example.com#FullMeal
+:FullMeal rdf:type owl:Class ;
+          rdfs:subClassOf :Recommendation .
+
+
+###  http://example.com#Grains
+:Grains rdf:type owl:Class ;
+        rdfs:subClassOf :FoodCategory .
+
+
+###  http://example.com#GrainsAllergy
+:GrainsAllergy rdf:type owl:Class ;
+               rdfs:subClassOf :FoodAllergy .
+
+
+###  http://example.com#MacroNutrient
+:MacroNutrient rdf:type owl:Class ;
+               rdfs:subClassOf :Nutrient .
+
+
+###  http://example.com#Meat
+:Meat rdf:type owl:Class ;
+      rdfs:subClassOf :FoodCategory .
+
+
+###  http://example.com#MicroNutrient
+:MicroNutrient rdf:type owl:Class ;
+               rdfs:subClassOf :Nutrient .
+
+
+###  http://example.com#Mineral
+:Mineral rdf:type owl:Class ;
+         rdfs:subClassOf :MicroNutrient .
+
+
+###  http://example.com#Nutrient
+:Nutrient rdf:type owl:Class ;
+          rdfs:subClassOf gufo:FunctionalComplex .
+
+
+###  http://example.com#NutritionalBreakdown
+:NutritionalBreakdown rdf:type owl:Class ;
+                      rdfs:subClassOf :ExplanationComponent .
+
+
+###  http://example.com#NutsAllergy
+:NutsAllergy rdf:type owl:Class ;
+             rdfs:subClassOf :FoodAllergy .
+
+
+###  http://example.com#OccassionEnum
+:OccassionEnum rdf:type owl:Class ;
+               owl:equivalentClass [ rdf:type owl:Class ;
+                                     owl:oneOf ( :AfternoonSnack
+                                                 :Breakfast
+                                                 :Dinner
+                                                 :EveningSnack
+                                                 :Lunch
+                                                 :MorningSnack
+                                               )
+                                   ] ;
+               rdfs:subClassOf gufo:QualityValue .
+
+
+###  http://example.com#OccassionOfConsumption
+:OccassionOfConsumption rdf:type owl:Class ;
+                        rdfs:subClassOf gufo:Quality .
+
+
+###  http://example.com#Oil_and_Fats
+:Oil_and_Fats rdf:type owl:Class ;
+              rdfs:subClassOf :FoodCategory .
+
+
+###  http://example.com#Output
+:Output rdf:type owl:Class ;
+        rdfs:subClassOf gufo:FunctionalComplex .
+
+
+###  http://example.com#Person
+:Person rdf:type owl:Class ;
+        rdfs:subClassOf gufo:FunctionalComplex .
+
+
+###  http://example.com#Protein
+:Protein rdf:type owl:Class ;
+         rdfs:subClassOf :MacroNutrient .
+
+
+###  http://example.com#Recipe
+:Recipe rdf:type owl:Class ;
+        rdfs:subClassOf :Recommendation .
+
+
+###  http://example.com#Recommendation
+:Recommendation rdf:type owl:Class ;
+                rdfs:subClassOf gufo:FunctionalComplex .
+
+
+###  http://example.com#ScientificExplanation
+:ScientificExplanation rdf:type owl:Class ;
+                       rdfs:subClassOf :ExplanationComponent .
+
+
+###  http://example.com#TraceBasedExplanations
+:TraceBasedExplanations rdf:type owl:Class ;
+                        rdfs:subClassOf :ExplanationComponent .
+
+
+###  http://example.com#Vegetables
+:Vegetables rdf:type owl:Class ;
+            rdfs:subClassOf :FoodCategory .
+
+
+###  http://example.com#Vitamin
+:Vitamin rdf:type owl:Class ;
+         rdfs:subClassOf :MicroNutrient .
+
+
+###  http://purl.org/nemo/gufo#AbstractIndividualType
+gufo:AbstractIndividualType rdf:type owl:Class .
+
+
+###  http://purl.org/nemo/gufo#Category
+gufo:Category rdf:type owl:Class .
+
+
+###  http://purl.org/nemo/gufo#FunctionalComplex
+gufo:FunctionalComplex rdf:type owl:Class .
+
+
+###  http://purl.org/nemo/gufo#Kind
+gufo:Kind rdf:type owl:Class .
+
+
+###  http://purl.org/nemo/gufo#Quality
+gufo:Quality rdf:type owl:Class .
+
+
+###  http://purl.org/nemo/gufo#QualityValue
+gufo:QualityValue rdf:type owl:Class .
+
+
+###  http://purl.org/nemo/gufo#Role
+gufo:Role rdf:type owl:Class .
+
+
+###  http://purl.org/nemo/gufo#SubKind
+gufo:SubKind rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://example.com#Added_Sugar
+:Added_Sugar rdf:type owl:NamedIndividual ,
+                      gufo:SubKind .
+
+
+###  http://example.com#AfternoonSnack
+:AfternoonSnack rdf:type owl:NamedIndividual ,
+                         :OccassionEnum ;
+                rdf:label "[object Object]" .
+
+
+###  http://example.com#Beverages
+:Beverages rdf:type owl:NamedIndividual ,
+                    gufo:SubKind .
+
+
+###  http://example.com#Breakfast
+:Breakfast rdf:type owl:NamedIndividual ,
+                    :OccassionEnum ;
+           rdf:label "[object Object]" .
+
+
+###  http://example.com#Carbohydrate
+:Carbohydrate rdf:type owl:NamedIndividual ,
+                       gufo:SubKind .
+
+
+###  http://example.com#ContextualExplanation
+:ContextualExplanation rdf:type owl:NamedIndividual ,
+                                gufo:SubKind .
+
+
+###  http://example.com#Dairy
+:Dairy rdf:type owl:NamedIndividual ,
+                gufo:SubKind .
+
+
+###  http://example.com#DiaryAllergy
+:DiaryAllergy rdf:type owl:NamedIndividual ,
+                       gufo:SubKind .
+
+
+###  http://example.com#Diet
+:Diet rdf:type owl:NamedIndividual ,
+               gufo:Kind .
+
+
+###  http://example.com#Dinner
+:Dinner rdf:type owl:NamedIndividual ,
+                 :OccassionEnum ;
+        rdf:label "[object Object]" .
+
+
+###  http://example.com#EveningSnack
+:EveningSnack rdf:type owl:NamedIndividual ,
+                       :OccassionEnum ;
+              rdf:label "[object Object]" .
+
+
+###  http://example.com#ExplanationComponent
+:ExplanationComponent rdf:type owl:NamedIndividual ,
+                               gufo:Kind .
+
+
+###  http://example.com#Fat
+:Fat rdf:type owl:NamedIndividual ,
+              gufo:SubKind .
+
+
+###  http://example.com#Fish
+:Fish rdf:type owl:NamedIndividual ,
+               gufo:SubKind .
+
+
+###  http://example.com#FishAllergy
+:FishAllergy rdf:type owl:NamedIndividual ,
+                      gufo:SubKind .
+
+
+###  http://example.com#FoodAllergy
+:FoodAllergy rdf:type owl:NamedIndividual ,
+                      gufo:Kind .
+
+
+###  http://example.com#FoodCategory
+:FoodCategory rdf:type owl:NamedIndividual ,
+                       gufo:Kind .
+
+
+###  http://example.com#FoodCharacteristic
+:FoodCharacteristic rdf:type owl:NamedIndividual ,
+                             gufo:Category .
+
+
+###  http://example.com#FoodConsumption
+:FoodConsumption rdf:type owl:NamedIndividual ,
+                          gufo:Kind .
+
+
+###  http://example.com#Fruit
+:Fruit rdf:type owl:NamedIndividual ,
+                gufo:SubKind .
+
+
+###  http://example.com#FullMeal
+:FullMeal rdf:type owl:NamedIndividual ,
+                   gufo:SubKind .
+
+
+###  http://example.com#Grains
+:Grains rdf:type owl:NamedIndividual ,
+                 gufo:SubKind .
+
+
+###  http://example.com#GrainsAllergy
+:GrainsAllergy rdf:type owl:NamedIndividual ,
+                        gufo:SubKind .
+
+
+###  http://example.com#Input
+:Input rdf:type owl:NamedIndividual ,
+                gufo:Kind .
+
+
+###  http://example.com#Lunch
+:Lunch rdf:type owl:NamedIndividual ,
+                :OccassionEnum ;
+       rdf:label "[object Object]" .
+
+
+###  http://example.com#MacroNutrient
+:MacroNutrient rdf:type owl:NamedIndividual ,
+                        gufo:Kind .
+
+
+###  http://example.com#Meat
+:Meat rdf:type owl:NamedIndividual ,
+               gufo:SubKind .
+
+
+###  http://example.com#MicroNutrient
+:MicroNutrient rdf:type owl:NamedIndividual ,
+                        gufo:Kind .
+
+
+###  http://example.com#Mineral
+:Mineral rdf:type owl:NamedIndividual ,
+                  gufo:SubKind .
+
+
+###  http://example.com#MorningSnack
+:MorningSnack rdf:type owl:NamedIndividual ,
+                       :OccassionEnum ;
+              rdf:label "[object Object]" .
+
+
+###  http://example.com#Nutrient
+:Nutrient rdf:type owl:NamedIndividual ,
+                   gufo:Category .
+
+
+###  http://example.com#NutritionalBreakdown
+:NutritionalBreakdown rdf:type owl:NamedIndividual ,
+                               gufo:SubKind .
+
+
+###  http://example.com#NutsAllergy
+:NutsAllergy rdf:type owl:NamedIndividual ,
+                      gufo:SubKind .
+
+
+###  http://example.com#OccassionEnum
+:OccassionEnum rdf:type owl:NamedIndividual ,
+                        gufo:AbstractIndividualType .
+
+
+###  http://example.com#OccassionOfConsumption
+:OccassionOfConsumption rdf:type owl:NamedIndividual ,
+                                 gufo:Kind .
+
+
+###  http://example.com#Oil_and_Fats
+:Oil_and_Fats rdf:type owl:NamedIndividual ,
+                       gufo:SubKind .
+
+
+###  http://example.com#Output
+:Output rdf:type owl:NamedIndividual ,
+                 gufo:Kind .
+
+
+###  http://example.com#Person
+:Person rdf:type owl:NamedIndividual ,
+                 gufo:Kind .
+
+
+###  http://example.com#Protein
+:Protein rdf:type owl:NamedIndividual ,
+                  gufo:SubKind .
+
+
+###  http://example.com#Recipe
+:Recipe rdf:type owl:NamedIndividual ,
+                 gufo:SubKind .
+
+
+###  http://example.com#Recommendation
+:Recommendation rdf:type owl:NamedIndividual ,
+                         gufo:Kind .
+
+
+###  http://example.com#ScientificExplanation
+:ScientificExplanation rdf:type owl:NamedIndividual ,
+                                gufo:SubKind .
+
+
+###  http://example.com#SpecialDiet
+:SpecialDiet rdf:type owl:NamedIndividual ,
+                      gufo:Role .
+
+
+###  http://example.com#TraceBasedExplanations
+:TraceBasedExplanations rdf:type owl:NamedIndividual ,
+                                 gufo:SubKind .
+
+
+###  http://example.com#Vegetables
+:Vegetables rdf:type owl:NamedIndividual ,
+                     gufo:SubKind .
+
+
+###  http://example.com#Vitamin
+:Vitamin rdf:type owl:NamedIndividual ,
+                  gufo:SubKind .
+
+
+[ owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger
+] .
+
+[ owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger
+ ] .
+
+[ owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger
+ ] .
+
+[ owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger
+ ] .
+
+[ owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger
+ ] .
+
+[ owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger
+ ] .
+
+#################################################################
+#    Annotations
+#################################################################
+
+:Added_Sugar rdfs:label "Added_Sugar"@en .
+
+
+:Beverages rdfs:label "Beverages"@en .
+
+
+:Carbohydrate rdfs:label "Carbohydrate"@en .
+
+
+:ContextualExplanation rdfs:label "ContextualExplanation"@en .
+
+
+:Dairy rdfs:label "Dairy"@en .
+
+
+:DiaryAllergy rdfs:label "DiaryAllergy"@en .
+
+
+:ExplanationComponent rdfs:label "ExplanationComponent"@en .
+
+
+:Fat rdfs:label "Fat"@en .
+
+
+:Fish rdfs:label "Fish"@en .
+
+
+:FishAllergy rdfs:label "FishAllergy"@en .
+
+
+:FoodAllergy rdfs:label "FoodAllergy"@en .
+
+
+:FoodCategory rdfs:label "FoodCategory"@en .
+
+
+:FoodCharacteristic rdfs:label "FoodCharacteristic"@en .
+
+
+:Fruit rdfs:label "Fruit"@en .
+
+
+:FullMeal rdfs:label "FullMeal"@en .
+
+
+:Grains rdfs:label "Grains"@en .
+
+
+:GrainsAllergy rdfs:label "GrainsAllergy"@en .
+
+
+:MacroNutrient rdfs:label "MacroNutrient"@en .
+
+
+:Meat rdfs:label "Meat"@en .
+
+
+:MicroNutrient rdfs:label "MicroNutrient"@en .
+
+
+:Mineral rdfs:label "Mineral"@en .
+
+
+:Nutrient rdfs:label "Nutrient"@en .
+
+
+:NutritionalBreakdown rdfs:label "NutritionalBreakdown"@en .
+
+
+:NutsAllergy rdfs:label "NutsAllergy"@en .
+
+
+:OccassionEnum rdfs:label "OccassionEnum"@en .
+
+
+:OccassionOfConsumption rdfs:label "OccassionOfConsumption"@en .
+
+
+:Oil_and_Fats rdfs:label "Oil_and_Fats"@en .
+
+
+:Output rdfs:label "Output"@en .
+
+
+:Person rdfs:label "Person"@en .
+
+
+:Protein rdfs:label "Protein"@en .
+
+
+:Recipe rdfs:label "Recipe"@en .
+
+
+:Recommendation rdfs:label "Recommendation"@en .
+
+
+:ScientificExplanation rdfs:label "ScientificExplanation"@en .
+
+
+:TraceBasedExplanations rdfs:label "Trace-basedExplanations"@en .
+
+
+:Vegetables rdfs:label "Vegetables"@en .
+
+
+:Vitamin rdfs:label "Vitamin"@en .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
